@@ -4,7 +4,6 @@
 
 
 **常用工具：**
-
 - CCF-A deadline：https://blog.csdn.net/m0_38068876/article/details/128409547
 - CCF deadline：https://ccfddl.github.io/
 - sec-deadlines：https://sec-deadlines.github.io/
@@ -17,7 +16,6 @@
 
 
 **AI安全学术团队：**
-
 - 孙猛（北大·数学科学学院）：
 - 郑征（北航·可信智能软件研究室）：https://shi.buaa.edu.cn/zhengzheng/zh_CN/index.htm （AI系统可靠性）
 - 陈岑（华师大）：https://sites.google.com/site/chencenpersonalwebsite/ （隐私保护）
@@ -39,28 +37,16 @@
 
 
 **安全测试（Testing）经典论文：**
-
 - [1] Kexin Pei, Yinzhi Cao, Junfeng Yang, Suman Jana. **DeepXplore: Automated Whitebox Testing of Deep Learning Systems.** [SOSP-2017 Best paper/CCF-A Conference]
   https://arxiv.org/abs/1705.06640
-
 - [2] DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems. [ASE-2018]
-
 - [3] Does Neuron Coverage Matter for Deep Reinforcement Learning?: A Preliminary Study.
-
 - [4] Automation of software test data generation using genetic algorithm and reinforcement learning.
-
 - [5] Towards formal methods and software engineering for Deep Learning.
-
 - [6] Secure Deep Learning Engineering: A Software Quality Assurance Perspective.
-
 - [7] Enabling Adaptability in Web Forms Based on User Characteristics Detection Through A/B Testing and Machine Learning.
-
 - [8] Concolic Testing for Deep Neural Networks. [ASE-2018]
-
   https://github.com/TrustAI/DeepConcolic
-
 - [9] DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars. [ASE-2018]
-
   https://github.com/ARiSE-Lab/deepTest
-
 - [10] DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems. [ASE-2018]
