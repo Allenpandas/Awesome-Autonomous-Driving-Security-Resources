@@ -1,4 +1,4 @@
-# Toolbox-for-AI-Security-Research
+# AI-Security-Toolbox
 该仓库整理了AI+Security相关的资料，包括但不限于经典学术论文、学术团队、科研工具等。（The repository organizes AI+Security related toolbox, including but not limited to classical academic papers, academic teams, and research tools. ）
 
 
