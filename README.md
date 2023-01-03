@@ -27,15 +27,14 @@
 
 
 **强化学习学术团队（国内）：**
-
 - 张海峰（中科院自动化所）：https://people.ucas.edu.cn/~zhf （多智能体强化学习、智能体博弈、智能体评估）
 - 杨耀东（北大·人工智能研究院）：https://www.yangyaodong.com/ （多智能体强化学习、博弈论）
-- Zongqing Lu（北大·人工智能研究院）：https://z0ngqing.github.io/ （强化学习）
+- 卢宗青（北大·人工智能研究院）：https://z0ngqing.github.io/ （强化学习）
 - 张崇洁（清华大学·跨学科信息科学研究所）：http://people.iiis.tsinghua.edu.cn/~zhang/ （深度强化学习、多智能体系统）
 - 俞扬（南京大学·人工智能学院）： https://www.yuque.com/eyounx/home （强化学习、离线强化学习）
-- Jianye Hao（天津大学·深度强化学习实验室）： http://www.icdai.org/jianye.html （多智能体强化学习、博弈论）
+- 郝建业（天津大学·深度强化学习实验室）： http://www.icdai.org/jianye.html （多智能体强化学习、博弈论）
 - 王祥丰（华师大·多智能体人工智能实验室）： https://mail-ecnu.cn/people/xfwang （多智体强化学习）
-- Jun Luo（华为诺亚方舟实验室）：https://openreview.net/profile?id=~Jun_Luo1 （自动驾驶、强化学习）
+- 罗军（华为诺亚方舟实验室）：https://openreview.net/profile?id=~Jun_Luo1 （自动驾驶、强化学习）
 
 
 
