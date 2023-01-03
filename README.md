@@ -25,18 +25,36 @@
 
 
 
-**强化学习学术团队：**
+**强化学习学术团队（国内）：**
 
-- 杨耀东（中科院自动化所）：https://people.ucas.edu.cn/~zhf （多智能体强化学习、智能体对抗、游戏智能体）
+- 张海峰（中科院自动化所）：https://people.ucas.edu.cn/~zhf （多智能体强化学习、智能体博弈、智能体评估）
+- 杨耀东（北大·人工智能研究院）：https://www.yangyaodong.com/ （多智能体强化学习、博弈论）
+- Zongqing Lu（北大·人工智能研究院）：https://z0ngqing.github.io/ （强化学习）
+- 张崇洁（清华大学·跨学科信息科学研究所）：http://people.iiis.tsinghua.edu.cn/~zhang/ （深度强化学习、多智能体系统）
+- 俞扬（南京大学·人工智能学院）： https://www.yuque.com/eyounx/home （强化学习、离线强化学习）
+- Jianye Hao（天津大学·深度强化学习实验室）： http://www.icdai.org/jianye.html （多智能体强化学习、博弈论）
 - 王祥丰（华师大·多智能体人工智能实验室）： https://mail-ecnu.cn/people/xfwang （多智体强化学习）
 - Jun Luo（华为诺亚方舟实验室）：https://openreview.net/profile?id=~Jun_Luo1 （自动驾驶、强化学习）
+
+
+
+**强化学习学术团队（国外）：**
+
 - Piter Abbeel（加州伯克利·机器人学习实验室）：http://people.eecs.berkeley.edu/~pabbeel/ | http://rll.berkeley.edu/ （强化学习、机器人）
+- Jun Wang（伦敦大学·人工智能中心）：http://www0.cs.ucl.ac.uk/staff/jun.wang/ （多智能体强化学习）
+- Bo An（新加坡南洋理工大学）：https://personal.ntu.edu.sg/boan/index.html （多智能体系统、博弈论）
+- Richard S. Sutton（DeepMind）：http://incompleteideas.net/ 
+- David Silver（DeepMind）：https://www.davidsilver.uk/
+- Satinder Singh（密歇根大学）：https://web.eecs.umich.edu/~baveja/
+- Peter Stone（德克萨斯大学）：https://www.cs.utexas.edu/~pstone/
+- Sergey Levine（加州伯克利）：https://people.eecs.berkeley.edu/~svlevine/
 
 
 
 
 
 **安全测试（Testing）经典论文：**
+
 - [1] Kexin Pei, Yinzhi Cao, Junfeng Yang, Suman Jana. **DeepXplore: Automated Whitebox Testing of Deep Learning Systems.** [SOSP-2017 Best paper/CCF-A Conference]
   https://arxiv.org/abs/1705.06640
 - [2] DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems. [ASE-2018]
