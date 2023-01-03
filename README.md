@@ -21,8 +21,8 @@
 - 孙猛（北大·数学科学学院）：
 - 郑征（北航·可信智能软件研究室）：https://shi.buaa.edu.cn/zhengzheng/zh_CN/index.htm （AI系统可靠性）
 - 陈岑（华师大）：https://sites.google.com/site/chencenpersonalwebsite/ （隐私保护）
-- GoSSIP(上交)：https://github.com/GoSSIP-SJTU
-- 学术安全圈(川大)：https://secdr.org/ | https://chenghuang.org/
+- GoSSIP（上交）：https://github.com/GoSSIP-SJTU
+- 学术安全圈（川大）：https://secdr.org/ | https://chenghuang.org/
 - InforSec：http://www.inforsec.org/wp/?page_id=309
 
 
