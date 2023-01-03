@@ -19,8 +19,8 @@
 **AI安全学术团队：**
 
 - 孙猛（北大·数学科学学院）：
-- 郑征（北航·可信智能软件研究室）：https://shi.buaa.edu.cn/zhengzheng/zh_CN/index.htm（AI系统可靠性）
-- 陈岑（华师大）：https://sites.google.com/site/chencenpersonalwebsite/（隐私保护）
+- 郑征（北航·可信智能软件研究室）：https://shi.buaa.edu.cn/zhengzheng/zh_CN/index.htm （AI系统可靠性）
+- 陈岑（华师大）：https://sites.google.com/site/chencenpersonalwebsite/ （隐私保护）
 - GoSSIP(上交)：https://github.com/GoSSIP-SJTU
 - 学术安全圈(川大)：https://secdr.org/ | https://chenghuang.org/
 - InforSec：http://www.inforsec.org/wp/?page_id=309
@@ -29,10 +29,10 @@
 
 **强化学习学术团队：**
 
-- 杨耀东（中科院自动化所）：https://people.ucas.edu.cn/~zhf（多智能体强化学习、智能体对抗、游戏智能体）
-- 王祥丰（华师大·多智能体人工智能实验室）： https://mail-ecnu.cn/people/xfwang（多智体强化学习）
-- Jun Luo（华为诺亚方舟实验室）：https://openreview.net/profile?id=~Jun_Luo1（自动驾驶、强化学习）
-- Piter Abbeel（加州伯克利·机器人学习实验室）：http://people.eecs.berkeley.edu/~pabbeel/ | http://rll.berkeley.edu/（强化学习、机器人）
+- 杨耀东（中科院自动化所）：https://people.ucas.edu.cn/~zhf （多智能体强化学习、智能体对抗、游戏智能体）
+- 王祥丰（华师大·多智能体人工智能实验室）： https://mail-ecnu.cn/people/xfwang （多智体强化学习）
+- Jun Luo（华为诺亚方舟实验室）：https://openreview.net/profile?id=~Jun_Luo1 （自动驾驶、强化学习）
+- Piter Abbeel（加州伯克利·机器人学习实验室）：http://people.eecs.berkeley.edu/~pabbeel/ | http://rll.berkeley.edu/ （强化学习、机器人）
 
 
 
