@@ -1,5 +1,5 @@
-# AI-Security-Toolkit
-该仓库整理了AI+Security领域常用的科研工具。 |This repository organizes commonly used research toolkits in the field of AI+Security.
+# AI-Research-Toolkit
+该仓库整理了人工智能领域常用的科研工具。 | This repository organizes commonly used research toolkits in the field of artificial intelligence.
 
 ## 论文检索
 
