@@ -44,7 +44,6 @@
 - 《世界冠军带你从零实践强化学习》百度飞桨团队： [https://www.bilibili.com/video/BV1yv411i7xd](https://www.bilibili.com/video/BV1yv411i7xd)
 - 《强化学习白板推导》：[https://space.bilibili.com/97068901/channel/seriesdetail?sid=594040](https://space.bilibili.com/97068901/channel/seriesdetail?sid=594040)
 - 《蘑菇书EasyRL》王琦等： [https://github.com/datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
-
 - 《动手学强化学习》张伟楠等： [http://hrl.boyuai.com/](http://hrl.boyuai.com/)
 
 
