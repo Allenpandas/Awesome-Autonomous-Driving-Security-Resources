@@ -52,7 +52,7 @@
 
 ## 科研方向
 
-- [人工智能安全](https://github.com/Allenpandas/AI-Research-Toolkit/tree/main/AI%20Security)：包括数据安全与隐私保护、对抗样本攻击、模型安全、软件测试、系统鲁棒性等。
+- [人工智能安全](./AI%20Security)：包括数据安全与隐私保护、对抗样本攻击、模型安全、软件测试、系统鲁棒性等。
 - [强化学习](./Reinforcement%20Learning)：包括多智能体强化学习、离线强化学习、安全强化学习等。
 
 
