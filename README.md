@@ -1,5 +1,19 @@
 # AI-Research-Toolkit
-该仓库整理了人工智能领域常用的科研工具。 | This repository organizes commonly used research toolkits in the field of artificial intelligence.
+🔨人工智能/计算机科学/软件工程/信息安全等领域常用的科研工具。 | AI/CS/SE/InfoSec Research toolkits 
+
+## 目录
+
+- [论文检索](#论文检索)
+- [论文阅读](#论文阅读)
+  - [文献下载](#文献下载)
+  - [文献管理](#文献管理)
+  - [文献翻译](#文献翻译)
+  - [代码复现](#代码复现)
+- [论文写作](#论文写作)
+- [论文投递](#论文投递)
+- [科研方向](#科研方向)
+
+
 
 ## 论文检索
 
