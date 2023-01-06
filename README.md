@@ -76,7 +76,7 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 - [highlightcode](https://highlightcode.com/)：在线代码高亮着色工具。
 - [Xmind](https://xmind.cn/)：思维导图、头脑风暴工具，像大脑的瑞士军刀一般，助你理清思路，捕捉创意。
 - [Processon](https://www.processon.com/)：在线画图工具，可导出高清png图片。
-- [Convertio](https://convertio.co/zh/) | [Office-Converter](https://cn.office-converter.com/) | [online convert free](https://onlineconvertfree.com/zh/)：文件转化工具，常用于任意图片转换eps高清图片格式。
+- [Convertio](https://convertio.co/zh/) | [Office-Converter](https://cn.office-converter.com/) | [online convert free](https://onlineconvertfree.com/zh/)：文件类型转化工具，常用于任意类型的图片文件（如：.png、.jpeg、.pdf、.jpg）转换成eps类型的高清图片（.eps）。
 
 ## 论文投递
 
