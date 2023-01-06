@@ -65,7 +65,7 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 - [LaTeX Templates](http://www.latextemplates.com/)：LaTeX模板【[LaTeX使用教程](https://blog.csdn.net/m0_38068876/category_10779337.html)】。
 - [Git](https://git-scm.com/)：开源的分布式版本管理系统，可以检查代码变化、追溯历史版本。
 - [Sourcetree](https://www.sourcetreeapp.com/)：Git客户端管理工具，可通过可视化的方式来管理Git仓库。
-- [Github](https://github.com/) | [Gitee](https://gitee.com/)：开源软件管理仓库。Github对公开仓库更友好，Gitee国内访问速度更友好。
+- [Github](https://github.com/) | [Gitee](https://gitee.com/)：开源软件管理仓库。Github对公开仓库更友好，Gitee国内访问速度更快。
 
 ### 学术用语
 
