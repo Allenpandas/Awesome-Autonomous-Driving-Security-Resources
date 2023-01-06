@@ -21,7 +21,7 @@
 - [Google scholar](https://scholar.google.com)：英文文献第一搜索引擎。主要通过论文题目、作者姓名、关键词、发表年份检索论文。
 - [DBLP](https://dblp.org/)：计算机类的英文文献集成数据库，可以根据期刊、会议、作者检索论文。【[DBLP使用教程](https://blog.csdn.net/m0_38068876/article/details/128226944)】
 - [中国知网](https://www.cnki.net/)：中文文献检索数据库，主要用于检索硕博论文、中文综述类文献。
-- [中国知网海外版](https://chn.oversea.cnki.net/index/)[中国知网](https://www.cnki.net/)：多数文献只支持下载caj格式文献，而[中国知网海外版](https://chn.oversea.cnki.net/index/)则支持PDF格式下载。
+- [中国知网海外版](https://chn.oversea.cnki.net/index/)： [中国知网](https://www.cnki.net/)多数文献只支持下载caj格式文献，而[中国知网海外版](https://chn.oversea.cnki.net/index/)则支持PDF格式下载。
 - [arXiv](https://arxiv.org/)：论文预印本收录网站（尚未正式投递到会议/期刊，先发个预印本占个坑位）。
 - [Connected Papers](https://www.connectedpapers.com/)：用于查找特定领域学术论文的一款可视化工具。Connected Papers会把文献与文献之间的关系建立起来，以图表的形式呈现，方便科研人员梳理文献与文献之间的关系。
 
