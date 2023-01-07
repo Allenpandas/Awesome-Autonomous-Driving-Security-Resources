@@ -92,8 +92,8 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 
 ## 科研方向
 
-- [人工智能+计算机安全](https://github.com/Allenpandas/SE4ML-Toolkit)
-- [强化学习](./Reinforcement%20Learning)
+- [人工智能+计算机安全交叉学科科研工具](https://github.com/Allenpandas/SE4ML-Toolkit)
+- [强化学习领域入门教程](https://github.com/Allenpandas/Tutorial4RL)
 
 
 
