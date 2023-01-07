@@ -1,5 +1,5 @@
 # AI-Research-Toolkit
-🔨人工智能/计算机科学/软件工程/信息安全等领域常用的科研工具。 | AI/CS/SE/InfoSec Research toolkits.
+人工智能、软件工程、计算机安全、计算机科学等学科常用的科研工具🔨 | Research Toolkits for Artificial Intelligence(AI), Software Engineering(SE), Computer Security(CS), Computer Science(CS), etc. 读博不易，且读且整理（最后更新时间：2023.1.7）
 
 ## 目录
 
@@ -92,8 +92,8 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 
 ## 科研方向
 
-- [人工智能安全](./AI%20Security)：包括机器学习的隐私保护、模型安全、鲁棒性、可靠性等。
-- [强化学习](./Reinforcement%20Learning)：包括多智能体强化学习、离线强化学习、安全强化学习等。
+- [人工智能+计算机安全](https://github.com/Allenpandas/SE4ML-Toolkit)
+- [强化学习](./Reinforcement%20Learning)
 
 
 
