@@ -10,6 +10,8 @@
   - [阅读工具](#阅读工具)
   - [文献翻译](#文献翻译) 
 - [代码复现](#代码复现) 
+  - [开发工具](#开发工具)
+  - [参考文档](#参考文档)
 - [论文写作](#论文写作)
   - [LaTeX+Git](#LaTeX+Git)
   - [美化工具](#美化工具)
@@ -29,7 +31,7 @@
 
 ### 文献下载
 
-- [SCI-Hub 科研论文下载工具](http://tool.yovisun.com/scihub/)：提供SCI-Hub科研论文下载可用的网址链接。
+- [SCI-Hub 科研论文下载工具](http://tool.yovisun.com/scihub/) | [文献小镇](http://www.sci-hub.ac.cn/)：提供SCI-Hub科研论文下载可用的网址链接。
 
 ### 文献管理
 
@@ -39,7 +41,7 @@
 ### 阅读工具
 
 - [PDF Expert](https://www.pdfexpert.cn/)：快捷、轻巧、易用的PDF论文阅读工具。
-- [CAJViewer](https://cajviewer.cnki.net/)：caj文献阅读器，常用于阅读知网下载的中文文献，尤其是硕博论文。
+- [CAJViewer](https://cajviewer.cnki.net/)：CAJ文献阅读器，常用于阅读知网下载的中文文献，尤其是硕博论文。
 
 ### 文献翻译
 
@@ -49,9 +51,16 @@
 
 ## 代码复现
 
+### 开发工具
+
 - [Papers With Code](https://paperswithcode.com/)：自动把论文连接到实现代码的 GitHub 资源库和数据集，并根据 GitHub 的收藏量排序。
-- [Anaconda-Navigator](https://www.anaconda.com)：Python的发行版，包含了Conda、Python等180多个科学包及其依赖项【[Anaconda-Navigator使用教程](https://blog.csdn.net/m0_38068876/article/details/128364154)】
+- [Anaconda-Navigator](https://www.anaconda.com)：Python的发行版，包含了Conda、Python等180多个科学包及其依赖项 【[Anaconda-Navigator使用教程](https://blog.csdn.net/m0_38068876/article/details/128364154)】
 - [AutoDL](https://www.autodl.com)：人工智能的算力云市场，可提供GPU服务器租用服务。
+
+### 参考文档
+
+- [PyTorch Tutorials](https://pytorch.org/tutorials/)：PyTorch的官方指导手册。
+- [《动手学深度学习》](https://zh-v2.d2l.ai/)：深度学习教程，含PyTorch、NumPy/MXNet、TensorFlow和PaddlePaddle实现。
 
 ## 论文写作
 
@@ -62,7 +71,7 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 - [Overleaf](https://www.overleaf.com/)：支持多人协作的在线LaTeX编辑工具。
 - [texifier](https://www.texifier.com/)：LaTeX客户端编辑工具，支持MacOS、Windows和iOS。
 - [Latexlive](https://www.latexlive.com/)：LaTeX公式编辑器，支持图片转LaTeX。
-- [LaTeX Templates](http://www.latextemplates.com/)：LaTeX模板【[LaTeX使用教程](https://blog.csdn.net/m0_38068876/category_10779337.html)】。
+- [LaTeX Templates](http://www.latextemplates.com/)：LaTeX模板 【[LaTeX使用教程](https://blog.csdn.net/m0_38068876/category_10779337.html)】。
 - [Git](https://git-scm.com/)：开源的分布式版本管理系统，可以检查代码变化、追溯历史版本。
 - [Sourcetree](https://www.sourcetreeapp.com/)：Git客户端管理工具，可通过可视化的方式来管理Git仓库。
 - [Github](https://github.com/) | [Gitee](https://gitee.com/)：开源软件管理仓库。Github对公开仓库更友好，Gitee国内访问速度更快。
@@ -92,8 +101,8 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 
 ## 科研方向
 
-- [人工智能+计算机安全交叉学科科研工具](https://github.com/Allenpandas/SE4ML-Toolkit)
-- [强化学习领域入门教程](https://github.com/Allenpandas/Tutorial4RL)
+- [人工智能+计算机安全科研工具](https://github.com/Allenpandas/SE4ML-Toolkit)
+- [强化学习入门教程](https://github.com/Allenpandas/Tutorial4RL)
 
 
 
