@@ -1,5 +1,7 @@
 # AI-Research-Toolkit
-人工智能、软件工程、计算机安全、计算机科学等学科常用的科研工具🔨 | Research Toolkits for Artificial Intelligence(AI), Software Engineering(SE), Computer Security(CS), Computer Science(CS), etc. 读博不易，且读且整理（最后更新时间：2023.1.7）
+CORTs (Computer Research Tools): Research tools commonly used in computer-related majors such as computer science and technology, cyberspace security, software engineering, signal and information processing, Artificial Intelligence, etc.
+
+读博不易，且读且整理（最后更新时间：2023.4.17）
 
 ## 目录
 
