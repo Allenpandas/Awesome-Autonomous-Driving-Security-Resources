@@ -1,5 +1,5 @@
 # AI-Research-Toolkit
-**CORTs** (Computer Research Tools): Research tools commonly used in computer-related majors such as computer science and technology, cyberspace security, software engineering, signal and information processing, Artificial Intelligence, etc. | **CORTs** （计算机科研工具）： 计算机科学与技术、网络空间安全、软件工程、信号与信息处理、人工智能等计算机相关专业常用的科研工具。
+**CORTs** (Computer Research Tools): Research tools commonly used in computer-related majors such as computer science and technology, cyberspace security, software engineering, signal and information processing, Artificial Intelligence, etc. | **CORTs** （计算机科研工具包）： 计算机科学与技术、网络空间安全、软件工程、信号与信息处理、人工智能等计算机相关专业常用的科研工具。
 
 读博不易，且读且整理（最后更新时间：2023.4.17）
 
@@ -98,6 +98,7 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 - [CCF-A Deadline](https://github.com/Allenpandas/CCF-A-Deadlines)：CCF-A类会议截稿日期查阅表。
 - [Semanticscholar](https://www.semanticscholar.org/)：一个免费的、人工智能驱动的科学文献研究工具，可提供学术关系查询。
 - [Letpub](https://letpub.com.cn/)：期刊分区查询工具，搜索SCI期刊信息，查阅SCI期刊分区表。
+- [TopEditSCI](https://ithenticate.topeditsci.com/)：论文查重工具。（注：一般会议论文重复率在10%~15%，期刊论文在30%以内）
 
 
 
