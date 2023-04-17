@@ -100,13 +100,6 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 - [Letpub](https://letpub.com.cn/)：期刊分区查询工具，搜索SCI期刊信息，查阅SCI期刊分区表。
 - [TopEditSCI](https://ithenticate.topeditsci.com/)：论文查重工具。（注：一般会议论文重复率在10%~15%，期刊论文在30%以内）
 
-
-
-## 科研方向
-
-- [人工智能+计算机安全科研工具](https://github.com/Allenpandas/SE4ML-Toolkit)
-- [强化学习入门教程](https://github.com/Allenpandas/Tutorial4RL)
-
 ---
 
 **论文阅读四步：**
