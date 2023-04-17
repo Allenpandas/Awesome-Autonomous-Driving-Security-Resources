@@ -1,5 +1,5 @@
 # AI-Research-Toolkit
-CORTs (Computer Research Tools): Research tools commonly used in computer-related majors such as computer science and technology, cyberspace security, software engineering, signal and information processing, Artificial Intelligence, etc.
+CORTs (Computer Research Tools): Research tools commonly used in computer-related majors such as computer science and technology, cyberspace security, software engineering, signal and information processing, Artificial Intelligence, etc. | CORTs (计算机科研工具): 计算机科学与技术、网络空间安全、软件工程、信号与信息处理、人工智能等计算机相关专业常用的科研工具。
 
 读博不易，且读且整理（最后更新时间：2023.4.17）
 
