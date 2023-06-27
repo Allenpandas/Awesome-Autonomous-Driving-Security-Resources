@@ -95,7 +95,6 @@ LaTeX是一种论文排版系统，可以让科研人专注于论文写作而非
 - [CCF国际学术会议期刊目录](https://blog.csdn.net/m0_38068876/category_11820954.html)：中国计算机协会（CCF）推荐的国际学术期刊、会议列表。
 - [CCF deadline](https://ccfddl.github.io/)：CCF会议截稿日期查阅表。
 - [sec-deadlines](https://sec-deadlines.github.io/)：CCF安全与隐私领域会议截止日期查阅表。
-- [CCF-A Deadline](https://github.com/Allenpandas/CCF-A-Deadlines)：CCF-A类会议截稿日期查阅表。
 - [Semanticscholar](https://www.semanticscholar.org/)：一个免费的、人工智能驱动的科学文献研究工具，可提供学术关系查询。
 - [Letpub](https://letpub.com.cn/)：期刊分区查询工具，搜索SCI期刊信息，查阅SCI期刊分区表。
 - [TopEditSCI](https://ithenticate.topeditsci.com/)：论文查重工具。（注：一般会议论文重复率在10%~15%，期刊论文在30%以内）
