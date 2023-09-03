@@ -1,6 +1,8 @@
 # Autonomous-Driving-Security-Papers
 记录自动驾驶安全相关的文献
 
+
+
 ## Lane Detection Attack
 
 - [2023-arxiv] Junjie Shen, Yunpeng Luo, Ziwen Wan, Qi Alfred Chen\*. **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection.** [[pdf](https://arxiv.org/abs/2307.14540)]
@@ -14,7 +16,7 @@
 
 
 
-## Testing
+## System Testing
 
 - [2022-TSE] Andrea Stocco, Brian Pulfer, Paolo Tonella. **Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems.** [[pdf](https://arxiv.org/pdf/2112.11255)]
 - [2020-ECCV] Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun. **Testing the safety of self-driving vehicles by simulating perception and prediction.** [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
@@ -28,8 +30,23 @@
 
 - [2023-TITS] Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao. **A survey on safety-critical driving scenario generation—A methodological perspective.** [[pdf](https://arxiv.org/pdf/2202.02215)]
 
-  
+
+
+
+## Anomaly Detection
+
+- [2023-arxiv] Chiyu Zhang, Ji Han, Yao Zou, Kexin Dong, Yujia Li, Junchun Ding, Xiaoling Han. **Detecting the Anomalies in LiDAR Pointcloud.** [[pdf](https://arxiv.org/abs/2308.00187)]
+
+
 
 ## Other
 
 - [2018-DAC] Cumhur Erkan Tuncali, James Kapinski, Hisahiro Ito, Jyotirmoy V. Deshmukh. **Reasoning about Safety of Learning-Enabled Components in Autonomous Cyber-physical Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3195970.3199852)]
+
+
+
+## Datasets
+
+- [2023-arxiv] Zizhang Wu, Xinyuan Chen, Hongyang Wei, Fan Song and Tianhao Xua. **ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving.** [[pdf](https://arxiv.org/pdf/2308.07590.pdf)]
+- [2023-arxiv] Jiawei Hou, Qi Chen, Yurong Cheng, Guang Chen, Xiangyang Xue, Taiping Zeng, Jian Pu\*. **SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving.** [[pdf](https://arxiv.org/pdf/2302.12966.pdf)]
+- [2023-arxiv] Yuning Wang, Zeyu Han, Yining Xing, Shaobing Xu\*, Jianqiang Wang\*. **A Survey on Datasets for Decision-making of Autonomous Vehicle.** [[pdf](https://arxiv.org/pdf/2306.16784.pdf)]
