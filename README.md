@@ -39,6 +39,12 @@
 
 
 
+## End to End
+
+- [2023-arxiv] Pranav Singh Chib, Pravendra Singh. **Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey** [[pdf](https://arxiv.org/pdf/2307.04370.pdf)]
+
+
+
 ## Other
 
 - [2018-DAC] Cumhur Erkan Tuncali, James Kapinski, Hisahiro Ito, Jyotirmoy V. Deshmukh. **Reasoning about Safety of Learning-Enabled Components in Autonomous Cyber-physical Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3195970.3199852)]
