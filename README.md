@@ -9,9 +9,9 @@ Welcome to my GitHub repository dedicated to the field of autonomous driving sec
 
 ## Contributing
 
-![we-need-you](./we-need-you.jpeg)
-
-
+<p align="center">
+  <img src="./we-need-you.jpeg" alt="We Need You!">
+</p>
 
 Please help to contribute this list by contacting me or add [pull request](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/pulls)
 
