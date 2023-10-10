@@ -1,7 +1,7 @@
 # Autonomous Driving Security Papers
-Welcome to my GitHub repository dedicated to the field of **autonomous driving security**. Autonomous driving technology is rapidly transforming our transportation systems and modes of travel. However, along with these advancements, we must also focus on addressing the safety and security challenges associated with autonomous driving. The goal of this repository is to gather and curate literature, research papers, reports, and resources related to autonomous driving safety to assist researchers, engineers, and the general public in better understanding and exploring this critical domain. If you have any literature or resources related to autonomous driving safety, please feel free to contribute to this repository as we work together to promote the safe development of autonomous driving technology.
+Welcome to my GitHub repository dedicated to the field of autonomous driving security. Autonomous driving technology is rapidly transforming our transportation systems and modes of travel. However, along with these advancements, we must also focus on addressing the safety and security challenges associated with autonomous driving. The goal of this repository is to gather and curate literature, research papers, reports, and resources related to autonomous driving safety to assist researchers, engineers, and the general public in better understanding and exploring this critical domain. If you have any literature or resources related to autonomous driving safety, please feel free to contribute to this repository as we work together to promote the safe development of autonomous driving technology.
 
-欢迎来到我的GitHub仓库，这里是一个专注于 **自动驾驶安全** 的知识库。自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
+欢迎来到我的GitHub仓库，这里是一个专注于 自动驾驶安全 的知识库。自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
 
 ## News
 
@@ -18,55 +18,55 @@ Please help to contribute this list by contacting me or add [pull request](https
 Markdown format:
 
 ```
-- [year-conference/journal] **Paper Name.**
+- [year-conference/journal] Paper Name.
   [[pdf](link)]
   [[code](link)]
-  - Author 1, Author 2, **and** Author 3.
+  - Author 1, Author 2, and Author 3.
 ```
 
 ## Table of Contents
 
-- [Lane Detection Attack](#Lane Detection Attack)
-- [LiDAR Attack](#LiDAR Attack)
-- [System Testing](#System Testing)
-- [Scenario Generation](#Scenario Generation)
-- [Anomaly Detection](#Anomaly Detection)
+- [Lane Detection Attack](#Lane-Detection-Attack)
+- [LiDAR Attack](#LiDAR-Attack)
+- [System Testing](#System-Testing)
+- [Scenario Generation](#Scenario-Generation)
+- [Anomaly Detection](#Anomaly-Detection)
 - [Other](#Other)
 - [Datasets](#Datasets)
 
 ## Lane Detection Attack
 
-- [2023-arxiv] **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection.** [[pdf](https://arxiv.org/abs/2307.14540)]
+- [2023-arxiv] Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection. [[pdf](https://arxiv.org/abs/2307.14540)]
   - Junjie Shen, Yunpeng Luo, Ziwen Wan, Qi Alfred Chen\*.
 
-- [2022-MM] **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving.** [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
+- [2022-MM] Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
   - Xingshuo Han, Guowen Xu, Yuan Zhou\*, Xuehuan Yang, Jiawei Li, Tianwei Zhang.
 
 ## LiDAR Attack
 
-- [2023-Usenix Security] **You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks.** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
+- [2023-Usenix Security] You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks. [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
   - Yulong Cao, S. Hrushikesh Bhupathiraju, Pirouz Naghavi, Takeshi Sugawara, Z. Morley Mao\*, Sara Rampazzi.
 
 
 
 ## System Testing
 
-- [2022-TSE] **Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems.** [[pdf](https://arxiv.org/pdf/2112.11255)]
+- [2022-TSE] Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems. [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella.
-- [2020-ECCV] **Testing the safety of self-driving vehicles by simulating perception and prediction.** [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
+- [2020-ECCV] Testing the safety of self-driving vehicles by simulating perception and prediction. [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
   - Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun.
-- [2018-ASE] **DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
+- [2018-ASE] DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems. [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
   - MengshiZhang, Yuqun Zhang, Lingming Zhang, Cong Liu, Sarfraz Khurshid.
-- [2018-ICSE] **DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars.** [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
+- [2018-ICSE] DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
   - Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray.
-- [2017-arxiv] **Systematic Testing of Convolutional Neural Networks for Autonomous Driving.** [[pdf](https://arxiv.org/abs/1708.03309)]
+- [2017-arxiv] Systematic Testing of Convolutional Neural Networks for Autonomous Driving. [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia.
 
 
 
 ## Scenario Generation
 
-- [2023-TITS] **A survey on safety-critical driving scenario generation—A methodological perspective.** [[pdf](https://arxiv.org/pdf/2202.02215)]
+- [2023-TITS] A survey on safety-critical driving scenario generation—A methodological perspective. [[pdf](https://arxiv.org/pdf/2202.02215)]
   - Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao.
 
 
@@ -74,28 +74,28 @@ Markdown format:
 
 ## Anomaly Detection
 
-- [2023-arxiv] **Detecting the Anomalies in LiDAR Pointcloud.** [[pdf](https://arxiv.org/abs/2308.00187)]
+- [2023-arxiv] Detecting the Anomalies in LiDAR Pointcloud. [[pdf](https://arxiv.org/abs/2308.00187)]
   - Chiyu Zhang, Ji Han, Yao Zou, Kexin Dong, Yujia Li, Junchun Ding, Xiaoling Han.
 
 
 
 ## End to End
 
-- [2023-arxiv] **Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey** [[pdf](https://arxiv.org/pdf/2307.04370.pdf)]
+- [2023-arxiv] Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey [[pdf](https://arxiv.org/pdf/2307.04370.pdf)]
   - Pranav Singh Chib, Pravendra Singh.
 
 
 
 ## Other
 
-- [2018-DAC] **Reasoning about Safety of Learning-Enabled Components in Autonomous Cyber-physical Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3195970.3199852)]
+- [2018-DAC] Reasoning about Safety of Learning-Enabled Components in Autonomous Cyber-physical Systems. [[pdf](https://dl.acm.org/doi/abs/10.1145/3195970.3199852)]
   - Cumhur Erkan Tuncali, James Kapinski, Hisahiro Ito, Jyotirmoy V. Deshmukh.
 
 ## Datasets
 
-- [2023-arxiv] **ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving.** [[pdf](https://arxiv.org/pdf/2308.07590.pdf)]
+- [2023-arxiv] ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2308.07590.pdf)]
   - Zizhang Wu, Xinyuan Chen, Hongyang Wei, Fan Song and Tianhao Xua.
-- [2023-arxiv] **SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving.** [[pdf](https://arxiv.org/pdf/2302.12966.pdf)]
+- [2023-arxiv] SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2302.12966.pdf)]
   - Jiawei Hou, Qi Chen, Yurong Cheng, Guang Chen, Xiangyang Xue, Taiping Zeng, Jian Pu\*.
-- [2023-arxiv] **A Survey on Datasets for Decision-making of Autonomous Vehicle.** [[pdf](https://arxiv.org/pdf/2306.16784.pdf)]
+- [2023-arxiv] A Survey on Datasets for Decision-making of Autonomous Vehicle. [[pdf](https://arxiv.org/pdf/2306.16784.pdf)]
   - Yuning Wang, Zeyu Han, Yining Xing, Shaobing Xu\*, Jianqiang Wang\*.
