@@ -53,12 +53,16 @@ Markdown format:
 
 - [2022-TSE] Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems. [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella.
+
 - [2020-ECCV] Testing the safety of self-driving vehicles by simulating perception and prediction. [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
   - Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun.
+
 - [2018-ASE] DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems. [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
   - MengshiZhang, Yuqun Zhang, Lingming Zhang, Cong Liu, Sarfraz Khurshid.
+
 - [2018-ICSE] DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
   - Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray.
+
 - [2017-arxiv] Systematic Testing of Convolutional Neural Networks for Autonomous Driving. [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia.
 
@@ -95,7 +99,9 @@ Markdown format:
 
 - [2023-arxiv] ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2308.07590.pdf)]
   - Zizhang Wu, Xinyuan Chen, Hongyang Wei, Fan Song and Tianhao Xua.
+
 - [2023-arxiv] SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2302.12966.pdf)]
   - Jiawei Hou, Qi Chen, Yurong Cheng, Guang Chen, Xiangyang Xue, Taiping Zeng, Jian Pu\*.
+
 - [2023-arxiv] A Survey on Datasets for Decision-making of Autonomous Vehicle. [[pdf](https://arxiv.org/pdf/2306.16784.pdf)]
   - Yuning Wang, Zeyu Han, Yining Xing, Shaobing Xu\*, Jianqiang Wang\*.
