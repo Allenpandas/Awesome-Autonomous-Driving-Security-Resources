@@ -26,6 +26,7 @@ Markdown format:
 
 ## Table of Contents
 
+- [Survey](#Survey)
 - [Lane Detection Attack](#Lane-Detection-Attack)
 - [LiDAR Attack](#LiDAR-Attack)
 - [System Testing](#System-Testing)
@@ -36,7 +37,7 @@ Markdown format:
 
 ## Survey
 
-- [2021-TITS] [Deep learning for safe autonomous driving: Current challenges and future directions. [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
+- [2021-TITS] Deep learning for safe autonomous driving: Current challenges and future directions. [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
   - Khan Muhammad , Amin Ullah, Jaime Lloret, Javier Del Ser and Victor Hugo C. de Albuquerque.
 
 ## Lane Detection Attack
