@@ -38,7 +38,7 @@ Markdown format:
 ## Survey
 
 - [2021-TITS] Deep learning for safe autonomous driving: Current challenges and future directions. [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
-  - Khan Muhammad , Amin Ullah, Jaime Lloret, Javier Del Ser and Victor Hugo C. de Albuquerque.
+  - Khan Muhammad , Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque.
 
 ## Lane Detection Attack
 
@@ -103,11 +103,15 @@ Markdown format:
 
 ## Datasets
 
+- [2023-arxiv] AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2309.06547.pdf)]
+  - Ahmed Rida Sekkat, Rohit Mohan, Oliver Sawade, Elmar Matthes, Abhinav Valada.
 - [2023-arxiv] ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2308.07590.pdf)]
-  - Zizhang Wu, Xinyuan Chen, Hongyang Wei, Fan Song and Tianhao Xua.
-
+  - Zizhang Wu, Xinyuan Chen, Hongyang Wei, Fan Song, Tianhao Xua.
 - [2023-arxiv] SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2302.12966.pdf)]
   - Jiawei Hou, Qi Chen, Yurong Cheng, Guang Chen, Xiangyang Xue, Taiping Zeng, Jian Pu\*.
-
 - [2023-arxiv] A Survey on Datasets for Decision-making of Autonomous Vehicle. [[pdf](https://arxiv.org/pdf/2306.16784.pdf)]
   - Yuning Wang, Zeyu Han, Yining Xing, Shaobing Xu\*, Jianqiang Wang\*.
+- [2017-CVPR] CityPersons: A Diverse Dataset for Pedestrian Detection. [[pdf](http://ieeexplore.ieee.org/document/8099957/)]
+  - Shanshan Zhang, Rodrigo Benenson, Bernt Schiele.
+- [2012-CVPR] Are we ready for autonomous driving? The KITTI vision benchmark suite. [[pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/CVPR2012/data/papers/424_O3C-04.pdf)]
+  - Andreas Geiger, Philip Lenz, Raquel Urtasun.
