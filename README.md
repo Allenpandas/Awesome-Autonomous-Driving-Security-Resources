@@ -35,7 +35,6 @@ Markdown format:
 - [LiDAR Attack](#LiDAR-Attack)
 - [System Testing](#System-Testing)
 - [Scenario Generation](#Scenario-Generation)
-  - [Survey](#Survey)
 - [Anomaly Detection](#Anomaly-Detection)
 - [Other](#Other)
 - [Datasets](#Datasets)
@@ -79,12 +78,8 @@ Markdown format:
 
 ## Scenario Generation
 
-### Survey
-
 - [2023-TITS] A survey on safety-critical driving scenario generation—A methodological perspective. [[pdf](https://arxiv.org/pdf/2202.02215)]
   - Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao.
-
-### Research
 
 - [2023-TITS] Online Adaptive Generation of Critical Boundary Scenarios for Evaluation of Autonomous Vehicles. [[pdf](https://ieeexplore.ieee.org/document/10056393)]
   - Junjie Zhou, Lin Wang, Xiaofan Wang.
