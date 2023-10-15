@@ -35,6 +35,7 @@ Markdown format:
 - [LiDAR Attack](#LiDAR-Attack)
 - [System Testing](#System-Testing)
 - [Scenario Generation](#Scenario-Generation)
+  - [Survey](#Survey)
 - [Anomaly Detection](#Anomaly-Detection)
 - [Other](#Other)
 - [Datasets](#Datasets)
