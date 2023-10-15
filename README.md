@@ -11,7 +11,7 @@ Welcome to my GitHub repository dedicated to the field of **autonomous driving s
 
 This is a collection of research and review papers for **autonomous driving security (AD security)**. Feel free to star and fork.
 
-Maintainers:
+**Maintainers:**
 
 - [Yalun Wu](https://github.com/Allenpandas) (Beijing Jiaotong University)
 
@@ -20,10 +20,7 @@ We are looking for more contributors and maintainers! Please feel free to [pull 
 <p align="center">
   <img src="./we-need-you.jpeg" alt="We Need You!">
 </p>
-
-For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@bjtu.edu.cn)
-
-Markdown format:
+**Markdown format:**
 
 ```
 - [year-conference/journal] Paper Name.
@@ -31,6 +28,8 @@ Markdown format:
   [[code](link)]
   - Author 1, Author 2, and Author 3.
 ```
+
+For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@bjtu.edu.cn)
 
 ## Table of Contents
 
