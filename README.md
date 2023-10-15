@@ -1,11 +1,7 @@
 # Autonomous Driving Security Papers
-Welcome to my GitHub repository dedicated to the field of **autonomous driving security** !!!. 
+Welcome to my GitHub repository dedicated to the field of **autonomous driving security**. Autonomous driving technology is rapidly transforming our transportation systems and modes of travel. However, along with these advancements, we must also focus on addressing the safety and security challenges associated with autonomous driving. The goal of this repository is to gather and curate literature, research papers, reports, and resources related to autonomous driving safety to assist researchers, engineers, and the general public in better understanding and exploring this critical domain. If you have any literature or resources related to autonomous driving safety, please feel free to contribute to this repository as we work together to promote the safe development of autonomous driving technology.
 
-Autonomous driving technology is rapidly transforming our transportation systems and modes of travel. However, along with these advancements, we must also focus on addressing the safety and security challenges associated with autonomous driving. The goal of this repository is to gather and curate literature, research papers, reports, and resources related to autonomous driving safety to assist researchers, engineers, and the general public in better understanding and exploring this critical domain. If you have any literature or resources related to autonomous driving safety, please feel free to contribute to this repository as we work together to promote the safe development of autonomous driving technology.
-
-欢迎来到我的GitHub仓库，这里是一个专注于 **自动驾驶安全** 的知识库！！！
-
-自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
+欢迎来到我的GitHub仓库，这里是一个专注于 **自动驾驶安全** 的知识库。自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
 
 ## News
 
@@ -13,11 +9,19 @@ Autonomous driving technology is rapidly transforming our transportation systems
 
 ## Contributing
 
+This is a collection of research and review papers for **autonomous driving security (AD security)**. Feel free to star and fork.
+
+Maintainers:
+
+- [Yalun Wu](https://github.com/Allenpandas) (Beijing Jiaotong University)
+
+We are looking for more contributors and maintainers! Please feel free to [pull request](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/pulls).
+
 <p align="center">
   <img src="./we-need-you.jpeg" alt="We Need You!">
 </p>
 
-Please help to contribute this list by contacting me or add [pull request](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/pulls)
+Please help to contribute this list by [contacting me](mailto:wuyalun1@bjtu.edu.cn) or add [pull request](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/pulls).
 
 Markdown format:
 
