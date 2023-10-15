@@ -1,7 +1,11 @@
 # Autonomous Driving Security Papers
-Welcome to my GitHub repository dedicated to the field of **autonomous driving security**. Autonomous driving technology is rapidly transforming our transportation systems and modes of travel. However, along with these advancements, we must also focus on addressing the safety and security challenges associated with autonomous driving. The goal of this repository is to gather and curate literature, research papers, reports, and resources related to autonomous driving safety to assist researchers, engineers, and the general public in better understanding and exploring this critical domain. If you have any literature or resources related to autonomous driving safety, please feel free to contribute to this repository as we work together to promote the safe development of autonomous driving technology.
+Welcome to my GitHub repository dedicated to the field of **autonomous driving security** !!!. 
 
-欢迎来到我的GitHub仓库，这里是一个专注于 **自动驾驶安全** 的知识库。自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
+Autonomous driving technology is rapidly transforming our transportation systems and modes of travel. However, along with these advancements, we must also focus on addressing the safety and security challenges associated with autonomous driving. The goal of this repository is to gather and curate literature, research papers, reports, and resources related to autonomous driving safety to assist researchers, engineers, and the general public in better understanding and exploring this critical domain. If you have any literature or resources related to autonomous driving safety, please feel free to contribute to this repository as we work together to promote the safe development of autonomous driving technology.
+
+欢迎来到我的GitHub仓库，这里是一个专注于 **自动驾驶安全** 的知识库！！！
+
+自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
 
 ## News
 
@@ -55,20 +59,18 @@ Markdown format:
 
 
 
-## System Testing
+## Test and Evaluate
 
 - [2022-TSE] Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems. [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella.
-
 - [2020-ECCV] Testing the safety of self-driving vehicles by simulating perception and prediction. [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
   - Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun.
-
+- [2021-TITS] Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios. [[pdf](https://ieeexplore.ieee.org/abstract/document/9468363)]
+  - Baiming Chen, Xiang Chen, Qiong Wu, Liang Li.
 - [2018-ASE] DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems. [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
   - MengshiZhang, Yuqun Zhang, Lingming Zhang, Cong Liu, Sarfraz Khurshid.
-
 - [2018-ICSE] DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
   - Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray.
-
 - [2017-arxiv] Systematic Testing of Convolutional Neural Networks for Autonomous Driving. [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia.
 
@@ -76,10 +78,21 @@ Markdown format:
 
 ## Scenario Generation
 
+### Survey
+
 - [2023-TITS] A survey on safety-critical driving scenario generation—A methodological perspective. [[pdf](https://arxiv.org/pdf/2202.02215)]
   - Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao.
 
+### Research
 
+- [2023-TITS] Online Adaptive Generation of Critical Boundary Scenarios for Evaluation of Autonomous Vehicles. [[pdf](https://ieeexplore.ieee.org/document/10056393)]
+  - Junjie Zhou, Lin Wang, Xiaofan Wang.
+- [2022-TITS] SceGene: Bio-Inspired Traffic Scenario Generation for Autonomous Driving Testing. [[pdf](https://ieeexplore.ieee.org/abstract/document/9662987)]
+  - Ao Li, Shitao Chen, Liting Sun, Nanning Zheng, Masayoshi Tomizuka, Wei Zhan.
+- [2020-TSM] Test Scenario Generation and Optimization Technology for Intelligent Driving Systems. [[pdf](https://ieeexplore.ieee.org/abstract/document/8985542)]
+  - Jianli Duan, Feng Gao, Yingdong He.
+- [2020-IROS] Learning to Collide: An Adaptive Safety-Critical Scenarios Generating Method. [[pdf](https://arxiv.org/abs/2003.01197)]
+  - Wenhao Ding, Baiming Chen, Minjun Xu, Ding Zhao.
 
 
 ## Anomaly Detection
