@@ -21,7 +21,7 @@ We are looking for more contributors and maintainers! Please feel free to [pull 
   <img src="./we-need-you.jpeg" alt="We Need You!">
 </p>
 
-Please help to contribute this list by [contacting me](mailto:wuyalun1@bjtu.edu.cn) or add [pull request](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/pulls).
+For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@bjtu.edu.cn)
 
 Markdown format:
 
