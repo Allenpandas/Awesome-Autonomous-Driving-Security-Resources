@@ -14,6 +14,7 @@ This is a collection of research and review papers for **autonomous driving secu
 Maintainers:
 
 - [Yalun Wu](https://github.com/Allenpandas) (Beijing Jiaotong University)
+- [Yingxiao Xiang](https://github.com/YingxiaoXiang) (Chinese Academy of Sciences)
 
 We are looking for more contributors and maintainers! Please feel free to [pull request](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/pulls).
 
@@ -36,12 +37,11 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 - [Survey](#Survey)
 
 - [Perception Module](#Perception-Module)
-
   - [Camera Attack](#Camera-Attack)
-
+  
   - [Lane Detection Attack](#Lane-Detection-Attack)
   - [LiDAR Attack](#LiDAR-Attack)
-
+  
 - [System Testing](#System-Testing)
 
 - [Scenario Generation](#Scenario-Generation)
@@ -55,7 +55,7 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 ## Survey
 
 - [2021-TITS] Deep learning for safe autonomous driving: Current challenges and future directions. [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
-  - Khan Muhammad , Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque.
+  - Khan Muhammad, Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque.
 
 ## Perception Module
 
