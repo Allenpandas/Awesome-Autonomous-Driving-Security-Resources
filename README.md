@@ -35,7 +35,7 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - [Survey](#Survey)
 
-- [Perception Module](#Percepton-Module)
+- [Perception Module](#Perception-Module)
 
   - [Camera Attack](#Camera-Attack)
 
