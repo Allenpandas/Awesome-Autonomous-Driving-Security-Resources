@@ -23,10 +23,10 @@ We are looking for more contributors and maintainers! Please feel free to [pull 
 Markdown format:
 
 ```
-- [year-conference/journal] Paper Name.
+- [year-conference/journal] **Paper Name**.
   [[pdf](link)]
   [[code](link)]
-  - Author 1, Author 2, and Author 3.
+  - Author 1, Author 2, and Author 3. *journal/conference, year*.
 ```
 
 For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@bjtu.edu.cn)
@@ -34,12 +34,22 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 ## Table of Contents
 
 - [Survey](#Survey)
-- [Lane Detection Attack](#Lane-Detection-Attack)
-- [LiDAR Attack](#LiDAR-Attack)
+
+- [Perception Module](#Percepton-Module)
+
+  - [Camera Attack](#Camera-Attack)
+
+  - [Lane Detection Attack](#Lane-Detection-Attack)
+  - [LiDAR Attack](#LiDAR-Attack)
+
 - [System Testing](#System-Testing)
+
 - [Scenario Generation](#Scenario-Generation)
+
 - [Anomaly Detection](#Anomaly-Detection)
+
 - [Other](#Other)
+
 - [Datasets](#Datasets)
 
 ## Survey
@@ -47,15 +57,26 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 - [2021-TITS] Deep learning for safe autonomous driving: Current challenges and future directions. [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
   - Khan Muhammad , Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque.
 
-## Lane Detection Attack
+## Perception Module
 
-- [2023-arxiv] Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection. [[pdf](https://arxiv.org/abs/2307.14540)]
+### Camera Attack
+
+- [2020-JSA] **Attacking vision-based perception in end-to-end autonomous driving models**. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1383762120300606)] [[code](https://github.com/xz-group/AdverseDrive)]
+  - Adith Boloor, Karthik Garimella, Xin He, Christopher Gill, Yevgeniy Vorobeychik, Xuan Zhang. *Journal of Systems Architecture, 2020*.
+
+
+
+### Lane Detection Attack
+
+- [2023-arxiv] **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection**. [[pdf](https://arxiv.org/abs/2307.14540)]
   - Junjie Shen, Yunpeng Luo, Ziwen Wan, Qi Alfred Chen\*.
 
 - [2022-MM] Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
   - Xingshuo Han, Guowen Xu, Yuan Zhou\*, Xuehuan Yang, Jiawei Li, Tianwei Zhang.
 
-## LiDAR Attack
+
+
+### LiDAR Attack
 
 - [2023-Usenix Security] You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks. [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
   - Yulong Cao, S. Hrushikesh Bhupathiraju, Pirouz Naghavi, Takeshi Sugawara, Z. Morley Mao\*, Sara Rampazzi.
