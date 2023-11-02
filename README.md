@@ -41,6 +41,7 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
   
   - [Lane Detection Attack](#Lane-Detection-Attack)
   - [LiDAR Attack](#LiDAR-Attack)
+  - [Multi-Sensor Fusion Attack](#Multi-Sensor-Fusion-Attack)
   
 - [System Testing](#System-Testing)
 
@@ -70,11 +71,12 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - [2023-arxiv] **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection**. [[pdf](https://arxiv.org/abs/2307.14540)]
   - Junjie Shen, Yunpeng Luo, Ziwen Wan, Qi Alfred Chen\*.
-
 - [2022-MM] **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving**. [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
   - Xingshuo Han, Guowen Xu, Yuan Zhou\*, Xuehuan Yang, Jiawei Li, Tianwei Zhang. *ACM International Conference on Multimedia, 2022*.
-
-
+- [2021-Usenix Security] **Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations**. [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/jing)]
+  - Pengfei Jing, Qiyi Tang, Yuefeng Du, Lei Xue, Xiapu Luo, Ting Wang, Sen Nie, Shi Wu. 
+- [2021-Usenix Security] **Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack**. [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/sato)]
+  - Takami Sato, Junjie Shen, Ningfei Wang, Yunhan Jia, Xue Lin, Qi Alfred Chen.
 
 ### LiDAR Attack
 
@@ -82,6 +84,14 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
   - Yulong Cao, S. Hrushikesh Bhupathiraju, Pirouz Naghavi, Takeshi Sugawara, Z. Morley Mao\*, Sara Rampazzi.
 
 
+
+### Multi-Sensor Attack
+
+- [2022-Usenix Security] **Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles**. [[pdf](https://www.usenix.org/conference/usenixsecurity22/presentation/hallyburton)]
+  - R. Spencer Hallyburton, Yupei Liu, Yulong Cao, Z. Morley Mao, Miroslav Pajic.
+
+- [2021-S&P] **Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks**. [[pdf](https://arxiv.org/pdf/2106.09249.pdf)]
+  - Yulong Cao, Ningfei Wang, Chaowei Xiao, Dawei Yang, Jin Fang, Ruigang Yang, Qi Alfred Chen, Mingyan Liu, Bo Li.
 
 ## Test and Evaluate
 
