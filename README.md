@@ -71,14 +71,14 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 - [2023-arxiv] **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection**. [[pdf](https://arxiv.org/abs/2307.14540)]
   - Junjie Shen, Yunpeng Luo, Ziwen Wan, Qi Alfred Chen\*.
 
-- [2022-MM] Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
-  - Xingshuo Han, Guowen Xu, Yuan Zhou\*, Xuehuan Yang, Jiawei Li, Tianwei Zhang.
+- [2022-MM] **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving**. [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
+  - Xingshuo Han, Guowen Xu, Yuan Zhou\*, Xuehuan Yang, Jiawei Li, Tianwei Zhang. *ACM International Conference on Multimedia, 2022*.
 
 
 
 ### LiDAR Attack
 
-- [2023-Usenix Security] You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks. [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
+- [2023-Usenix Security] **You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks**. [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
   - Yulong Cao, S. Hrushikesh Bhupathiraju, Pirouz Naghavi, Takeshi Sugawara, Z. Morley Mao\*, Sara Rampazzi.
 
 
