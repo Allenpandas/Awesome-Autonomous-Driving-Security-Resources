@@ -71,10 +71,13 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - [2023-arxiv] **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection**. [[pdf](https://arxiv.org/abs/2307.14540)]
   - Junjie Shen, Yunpeng Luo, Ziwen Wan, Qi Alfred Chen\*.
+
 - [2022-MM] **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving**. [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
   - Xingshuo Han, Guowen Xu, Yuan Zhou\*, Xuehuan Yang, Jiawei Li, Tianwei Zhang. *ACM International Conference on Multimedia, 2022*.
+
 - [2021-Usenix Security] **Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations**. [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/jing)]
   - Pengfei Jing, Qiyi Tang, Yuefeng Du, Lei Xue, Xiapu Luo, Ting Wang, Sen Nie, Shi Wu. 
+
 - [2021-Usenix Security] **Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack**. [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/sato)]
   - Takami Sato, Junjie Shen, Ningfei Wang, Yunhan Jia, Xue Lin, Qi Alfred Chen.
 
@@ -97,14 +100,19 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - [2022-TSE] Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems. [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella.
+
 - [2020-ECCV] Testing the safety of self-driving vehicles by simulating perception and prediction. [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
   - Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun.
+
 - [2021-TITS] Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios. [[pdf](https://ieeexplore.ieee.org/abstract/document/9468363)]
   - Baiming Chen, Xiang Chen, Qiong Wu, Liang Li.
+
 - [2018-ASE] DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems. [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
   - MengshiZhang, Yuqun Zhang, Lingming Zhang, Cong Liu, Sarfraz Khurshid.
+
 - [2018-ICSE] DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
   - Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray.
+
 - [2017-arxiv] Systematic Testing of Convolutional Neural Networks for Autonomous Driving. [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia.
 
@@ -117,10 +125,13 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - [2023-TITS] Online Adaptive Generation of Critical Boundary Scenarios for Evaluation of Autonomous Vehicles. [[pdf](https://ieeexplore.ieee.org/document/10056393)]
   - Junjie Zhou, Lin Wang, Xiaofan Wang.
+
 - [2022-TITS] SceGene: Bio-Inspired Traffic Scenario Generation for Autonomous Driving Testing. [[pdf](https://ieeexplore.ieee.org/abstract/document/9662987)]
   - Ao Li, Shitao Chen, Liting Sun, Nanning Zheng, Masayoshi Tomizuka, Wei Zhan.
+
 - [2020-TSM] Test Scenario Generation and Optimization Technology for Intelligent Driving Systems. [[pdf](https://ieeexplore.ieee.org/abstract/document/8985542)]
   - Jianli Duan, Feng Gao, Yingdong He.
+
 - [2020-IROS] Learning to Collide: An Adaptive Safety-Critical Scenarios Generating Method. [[pdf](https://arxiv.org/abs/2003.01197)]
   - Wenhao Ding, Baiming Chen, Minjun Xu, Ding Zhao.
 
@@ -148,13 +159,18 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - [2023-arxiv] AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2309.06547.pdf)]
   - Ahmed Rida Sekkat, Rohit Mohan, Oliver Sawade, Elmar Matthes, Abhinav Valada.
+
 - [2023-arxiv] ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2308.07590.pdf)]
   - Zizhang Wu, Xinyuan Chen, Hongyang Wei, Fan Song, Tianhao Xua.
+
 - [2023-arxiv] SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving. [[pdf](https://arxiv.org/pdf/2302.12966.pdf)]
   - Jiawei Hou, Qi Chen, Yurong Cheng, Guang Chen, Xiangyang Xue, Taiping Zeng, Jian Pu\*.
+
 - [2023-arxiv] A Survey on Datasets for Decision-making of Autonomous Vehicle. [[pdf](https://arxiv.org/pdf/2306.16784.pdf)]
   - Yuning Wang, Zeyu Han, Yining Xing, Shaobing Xu\*, Jianqiang Wang\*.
+
 - [2017-CVPR] CityPersons: A Diverse Dataset for Pedestrian Detection. [[pdf](http://ieeexplore.ieee.org/document/8099957/)]
   - Shanshan Zhang, Rodrigo Benenson, Bernt Schiele.
+
 - [2012-CVPR] Are we ready for autonomous driving? The KITTI vision benchmark suite. [[pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/CVPR2012/data/papers/424_O3C-04.pdf)]
   - Andreas Geiger, Philip Lenz, Raquel Urtasun.
