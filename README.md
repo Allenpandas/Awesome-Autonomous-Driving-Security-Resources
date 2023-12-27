@@ -143,6 +143,8 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - [2023-arxiv] Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey [[pdf](https://arxiv.org/pdf/2307.04370.pdf)]
   - Pranav Singh Chib, Pravendra Singh.
+- [2023] Adversarial Driving: Attacking End-to-End Autonomous Driving. [[pdf](https://ieeexplore.ieee.org/abstract/document/10186386)]
+  - *IEEE Intelligent Vehicles Symposium, 2023*.
 
 
 
