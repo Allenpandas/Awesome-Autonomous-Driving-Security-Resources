@@ -50,6 +50,7 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 ## Survey
 
+- [2022-arxiv] **Physically adversarial attacks and defenses in computer vision: A survey.** [[pdf](https://arxiv.org/abs/2211.01671)]
 - [2021-TITS] **Deep learning for safe autonomous driving: Current challenges and future directions**. [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
   - Khan Muhammad, Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque. *IEEE Transactions on Intelligent Transportation Systems, 2021*.
 - [2021-TII] **Deep learning-based autonomous driving systems: A survey of attacks and defenses**.[[pdf](https://ieeexplore.ieee.org/abstract/document/9397393/)]
@@ -97,22 +98,18 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 ## Test and Evaluate
 
-- [2022-TSE] Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems. [[pdf](https://arxiv.org/pdf/2112.11255)]
+- [2022-TSE] **Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems.** [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella.
-
-- [2020-ECCV] Testing the safety of self-driving vehicles by simulating perception and prediction. [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
+- [2020-ECCV] **Testing the safety of self-driving vehicles by simulating perception and prediction.** [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
   - Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun.
-
-- [2021-TITS] Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios. [[pdf](https://ieeexplore.ieee.org/abstract/document/9468363)]
+- [202-ISSRE] **AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9251068)]
+- [2021-TITS] **Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9468363)]
   - Baiming Chen, Xiang Chen, Qiong Wu, Liang Li.
-
-- [2018-ASE] DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems. [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
+- [2018-ASE] **DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
   - MengshiZhang, Yuqun Zhang, Lingming Zhang, Cong Liu, Sarfraz Khurshid.
-
-- [2018-ICSE] DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
+- [2018-ICSE] **DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars.** [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
   - Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray.
-
-- [2017-arxiv] Systematic Testing of Convolutional Neural Networks for Autonomous Driving. [[pdf](https://arxiv.org/abs/1708.03309)]
+- [2017-arxiv] **Systematic Testing of Convolutional Neural Networks for Autonomous Driving.** [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia.
 
 
