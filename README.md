@@ -37,22 +37,15 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 ## Table of Contents
 
 - [Survey](#Survey)
-
 - [Perception Module](#Perception-Module)
   - [Camera Attack](#Camera-Attack)
-  
   - [Lane Detection Attack](#Lane-Detection-Attack)
   - [LiDAR Attack](#LiDAR-Attack)
   - [Multi-Sensor Fusion Attack](#Multi-Sensor-Fusion-Attack)
-  
 - [System Testing](#System-Testing)
-
 - [Scenario Generation](#Scenario-Generation)
-
 - [Anomaly Detection](#Anomaly-Detection)
-
 - [Other](#Other)
-
 - [Datasets](#Datasets)
 
 ## Survey
