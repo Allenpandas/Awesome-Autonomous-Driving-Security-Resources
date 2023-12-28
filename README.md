@@ -50,12 +50,12 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 ## Survey
 
-- [2022-arxiv] **Physically adversarial attacks and defenses in computer vision: A survey.** [[pdf](https://arxiv.org/abs/2211.01671)]
-- [2021-TITS] **Deep learning for safe autonomous driving: Current challenges and future directions**. [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
-  - Khan Muhammad, Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque. *IEEE Transactions on Intelligent Transportation Systems, 2021*.
-- [2021-TII] **Deep learning-based autonomous driving systems: A survey of attacks and defenses**.[[pdf](https://ieeexplore.ieee.org/abstract/document/9397393/)]
+- [2022-arxiv] **Physically adversarial attacks and defenses in computer vision: A survey. (计算机视觉物理对抗攻击与防御综述).** [[pdf](https://arxiv.org/abs/2211.01671)]
+- [2021-TITS] **Deep learning for safe autonomous driving: Current challenges and future directions. (面向安全自动驾驶的深度学习:当前挑战与未来方向).** [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
+  - Khan Muhammad, Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque. *IEEE Transactions on Intelligent Transportation Systems (TITS), 2021*.
+- [2021-TII] **Deep learning-based autonomous driving systems: A survey of attacks and defenses. (基于深度学习的自动驾驶系统攻防综述).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9397393/)]
   - Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han. *IEEE Transactions on Industrial Informatics, 2021.* 
-- [2021-IoTJ] **Autonomous driving security: State of the art and challenges**. [[pdf](https://ieeexplore.ieee.org/abstract/document/9625017/)]
+- [2021-IoTJ] **Autonomous driving security: State of the art and challenges. (自动驾驶安全:技术现状与挑战)** [[pdf](https://ieeexplore.ieee.org/abstract/document/9625017/)]
   - Cong Gao, Geng Wang, Weisong Shi, Zhongmin Wang, Yanping Chen. *IEEE Internet of Things Journal, 2021.*
 
 ## Perception Module
@@ -64,8 +64,6 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - [2020-JSA] **Attacking vision-based perception in end-to-end autonomous driving models**. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1383762120300606)] [[code](https://github.com/xz-group/AdverseDrive)]
   - Adith Boloor, Karthik Garimella, Xin He, Christopher Gill, Yevgeniy Vorobeychik, Xuan Zhang. *Journal of Systems Architecture, 2020*.
-
-
 
 ### Lane Detection Attack
 
