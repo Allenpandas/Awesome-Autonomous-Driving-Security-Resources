@@ -55,33 +55,33 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
   - Khan Muhammad, Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque. *IEEE Transactions on Intelligent Transportation Systems (TITS), 2021*.
 - [2021-TII] **Deep learning-based autonomous driving systems: A survey of attacks and defenses. (基于深度学习的自动驾驶系统攻防综述).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9397393/)]
   - Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han. *IEEE Transactions on Industrial Informatics, 2021.* 
-- [2021-IoTJ] **Autonomous driving security: State of the art and challenges. (自动驾驶安全:技术现状与挑战)** [[pdf](https://ieeexplore.ieee.org/abstract/document/9625017/)]
+- [2021-IoTJ] **Autonomous driving security: State of the art and challenges. (自动驾驶安全:技术现状与挑战).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9625017/)]
   - Cong Gao, Geng Wang, Weisong Shi, Zhongmin Wang, Yanping Chen. *IEEE Internet of Things Journal, 2021.*
 
 ## Perception Module
 
 ### Camera Attack
 
-- [2020-JSA] **Attacking vision-based perception in end-to-end autonomous driving models**. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1383762120300606)] [[code](https://github.com/xz-group/AdverseDrive)]
+- [2020-JSA] **Attacking vision-based perception in end-to-end autonomous driving models. (攻击端到端自动驾驶模型中基于视觉的感知).** [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1383762120300606)] [[code](https://github.com/xz-group/AdverseDrive)]
   - Adith Boloor, Karthik Garimella, Xin He, Christopher Gill, Yevgeniy Vorobeychik, Xuan Zhang. *Journal of Systems Architecture, 2020*.
 
 ### Lane Detection Attack
 
-- [2023-arxiv] **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection**. [[pdf](https://arxiv.org/abs/2307.14540)]
+- [2023-arxiv] **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection. (高级自动驾驶中的横向定位攻击:基于车道检测的领域特定防御机会).** [[pdf](https://arxiv.org/abs/2307.14540)]
   - Junjie Shen, Yunpeng Luo, Ziwen Wan, Qi Alfred Chen\*.
 
-- [2022-MM] **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving**. [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
+- [2022-MM] **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving. (自动驾驶中车道检测系统的物理后门攻击).** [[pdf](https://arxiv.org/pdf/2203.00858.pdf)] [[note](https://blog.csdn.net/m0_38068876/article/details/132547172)]
   - Xingshuo Han, Guowen Xu, Yuan Zhou\*, Xuehuan Yang, Jiawei Li, Tianwei Zhang. *ACM International Conference on Multimedia, 2022*.
 
-- [2021-Usenix Security] **Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations**. [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/jing)]
+- [2021-Usenix Security] **Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations. (太好而不安全:用精心设计的扰动在自动驾驶中欺骗车道检测).** [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/jing)]
   - Pengfei Jing, Qiyi Tang, Yuefeng Du, Lei Xue, Xiapu Luo, Ting Wang, Sen Nie, Shi Wu. 
 
-- [2021-Usenix Security] **Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack**. [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/sato)]
+- [2021-Usenix Security] **Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack. (脏路可攻击:物理世界攻击下基于深度学习的自动车道中心化安全性).** [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/sato)]
   - Takami Sato, Junjie Shen, Ningfei Wang, Yunhan Jia, Xue Lin, Qi Alfred Chen.
 
 ### LiDAR Attack
 
-- [2023-Usenix Security] **You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks**. [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
+- [2023-Usenix Security] **You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks. (你看不见我:物理移除对基于激光雷达的自动驾驶汽车驾驶框架的攻击).** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
   - Yulong Cao, S. Hrushikesh Bhupathiraju, Pirouz Naghavi, Takeshi Sugawara, Z. Morley Mao\*, Sara Rampazzi.
 
 
@@ -96,34 +96,34 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 ## Test and Evaluate
 
-- [2022-TSE] **Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems.** [[pdf](https://arxiv.org/pdf/2112.11255)]
+- [2022-TSE] **Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems. (小心缝隙!自动驾驶系统虚拟与物理测试的可迁移性研究).** [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella.
-- [2020-ECCV] **Testing the safety of self-driving vehicles by simulating perception and prediction.** [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
+- [2020-ECCV] **Testing the safety of self-driving vehicles by simulating perception and prediction. (通过模拟感知和预测来测试自动驾驶汽车的安全性).** [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
   - Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun.
-- [202-ISSRE] **AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9251068)]
-- [2021-TITS] **Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9468363)]
+- [202-ISSRE] **AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems. (AV-FUZZER:发现自动驾驶系统中的安全违规行为).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9251068)]
+- [2021-TITS] **Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios. (自动驾驶车辆换道场景的对抗性评估).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9468363)]
   - Baiming Chen, Xiang Chen, Qiong Wu, Liang Li.
-- [2018-ASE] **DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
+- [2018-ASE] **DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems. (DeepRoad:基于gan的自动驾驶系统蜕变测试和输入验证框架).** [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
   - MengshiZhang, Yuqun Zhang, Lingming Zhang, Cong Liu, Sarfraz Khurshid.
-- [2018-ICSE] **DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars.** [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
+- [2018-ICSE] **DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars. (DeepTest:深度神经网络驱动的自动驾驶汽车自动化测试).** [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
   - Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray.
-- [2017-arxiv] **Systematic Testing of Convolutional Neural Networks for Autonomous Driving.** [[pdf](https://arxiv.org/abs/1708.03309)]
+- [2017-arxiv] **Systematic Testing of Convolutional Neural Networks for Autonomous Driving. (面向自动驾驶的卷积神经网络系统测试).** [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia.
 
 
 
 ## Scenario Generation
 
-- [2023-TITS] A survey on safety-critical driving scenario generation—A methodological perspective. [[pdf](https://arxiv.org/pdf/2202.02215)]
+- [2023-TITS] **A survey on safety-critical driving scenario generation—A methodological perspective. (安全关键驾驶场景生成方法综述).** [[pdf](https://arxiv.org/pdf/2202.02215)]
   - Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao.
 
-- [2023-TITS] Online Adaptive Generation of Critical Boundary Scenarios for Evaluation of Autonomous Vehicles. [[pdf](https://ieeexplore.ieee.org/document/10056393)]
+- [2023-TITS] **Online Adaptive Generation of Critical Boundary Scenarios for Evaluation of Autonomous Vehicles. (自动驾驶车辆评估关键边界场景的在线自适应生成)** [[pdf](https://ieeexplore.ieee.org/document/10056393)]
   - Junjie Zhou, Lin Wang, Xiaofan Wang.
 
-- [2022-TITS] SceGene: Bio-Inspired Traffic Scenario Generation for Autonomous Driving Testing. [[pdf](https://ieeexplore.ieee.org/abstract/document/9662987)]
+- [2022-TITS] **SceGene: Bio-Inspired Traffic Scenario Generation for Autonomous Driving Testing. (SceGene:面向自动驾驶测试的生物启发交通场景生成).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9662987)]
   - Ao Li, Shitao Chen, Liting Sun, Nanning Zheng, Masayoshi Tomizuka, Wei Zhan.
 
-- [2020-TSM] Test Scenario Generation and Optimization Technology for Intelligent Driving Systems. [[pdf](https://ieeexplore.ieee.org/abstract/document/8985542)]
+- [2020-TSM] **Test Scenario Generation and Optimization Technology for Intelligent Driving Systems. (面向智能驾驶系统的测试场景生成与优化技术).** [[pdf](https://ieeexplore.ieee.org/abstract/document/8985542)]
   - Jianli Duan, Feng Gao, Yingdong He.
 
 - [2020-IROS] Learning to Collide: An Adaptive Safety-Critical Scenarios Generating Method. [[pdf](https://arxiv.org/abs/2003.01197)]
