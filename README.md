@@ -54,8 +54,8 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 - [2021-TITS] **Deep learning for safe autonomous driving: Current challenges and future directions. (面向安全自动驾驶的深度学习:当前挑战与未来方向).** [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
   - Khan Muhammad, Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque. *IEEE Transactions on Intelligent Transportation Systems (TITS), 2021*.
 - [2021-TII] **Deep learning-based autonomous driving systems: A survey of attacks and defenses. (基于深度学习的自动驾驶系统攻防综述).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9397393/)]
-  - Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han. *IEEE Transactions on Industrial Informatics, 2021.* 
-- [2021-IoTJ] **Autonomous driving security: State of the art and challenges. (自动驾驶安全:技术现状与挑战).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9625017/)]
+  - Yao Deng, Tiehua Zhang, Guannan Lou, Xi Zheng, Jiong Jin, Qing-Long Han. *IEEE Transactions on Industrial Informatics (TII), 2021.* 
+- [2021-IoT] **Autonomous driving security: State of the art and challenges. (自动驾驶安全:技术现状与挑战).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9625017/)]
   - Cong Gao, Geng Wang, Weisong Shi, Zhongmin Wang, Yanping Chen. *IEEE Internet of Things Journal, 2021.*
 
 ## Perception Module
@@ -100,7 +100,7 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
   - Andrea Stocco, Brian Pulfer, Paolo Tonella.
 - [2020-ECCV] **Testing the safety of self-driving vehicles by simulating perception and prediction. (通过模拟感知和预测来测试自动驾驶汽车的安全性).** [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
   - Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun.
-- [202-ISSRE] **AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems. (AV-FUZZER:发现自动驾驶系统中的安全违规行为).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9251068)]
+- [2020-ISSRE] **AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems. (AV-FUZZER:发现自动驾驶系统中的安全违规行为).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9251068)]
 - [2021-TITS] **Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios. (自动驾驶车辆换道场景的对抗性评估).** [[pdf](https://ieeexplore.ieee.org/abstract/document/9468363)]
   - Baiming Chen, Xiang Chen, Qiong Wu, Liang Li.
 - [2018-ASE] **DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems. (DeepRoad:基于gan的自动驾驶系统蜕变测试和输入验证框架).** [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
