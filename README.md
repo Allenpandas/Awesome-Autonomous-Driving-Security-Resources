@@ -59,6 +59,25 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 | Qi Alfred Chen | University of California, Irvine | [[HomePage](https://www.ics.uci.edu/~alfchen/)] [[Scholar](https://scholar.google.com/citations?user=lcsu7m8AAAAJ)] |
 | Yulong Cao     | University of Michigan / NVIDIA  | [[HomePage](https://kikacaty.github.io/)] [[Scholar](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN)] |
 
+## Relevant Conferences
+
+| Abbreviation    | Full Name                                                    |       Category       | CCF-Rank |
+| --------------- | ------------------------------------------------------------ | :------------------: | :------: |
+| CCS             | ACM Conference on Computer and Communications Security       |       Security       |  CCF-A   |
+| NDSS            | Network and Distributed System Security Symposium            |       Security       |  CCF-A   |
+| S&P             | IEEE Symposium on Security and Privacy                       |       Security       |  CCF-A   |
+| Usenix Security | USENIX Security Symposium                                    |       Security       |  CCF-A   |
+| ECCV            | European Conference on Computer Vision                       |   Computer Vision    |  CCF-B   |
+| CVPR            | Computer Vision and Pattern Recognition                      |   Computer Vision    |  CCF-A   |
+| ICCV            | IEEE International Conference on Computer Vision             |   Computer Vision    |  CCF-A   |
+| ACM MM          | ACM International Conference on Multimedia                   |      Multimedia      |  CCF-A   |
+| ASE             | International Conference on Automated Software Engineering   | Software Engineering |  CCF-A   |
+| ICSE            | International Conference on Software Engineering             | Software Engineering |  CCF-A   |
+| FSE             | ACM SIGSOFT Conference on the Foundations of Software Engineering | Software Engineering |  CCF-A   |
+| ISSTA           | International Symposium on Software Testing and Analysis     |   Software Testing   |  CCF-A   |
+
+
+
 ## Papers
 
 ### Survey
