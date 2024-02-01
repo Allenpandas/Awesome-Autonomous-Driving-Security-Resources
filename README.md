@@ -1,4 +1,4 @@
-# Autonomous Driving Security Papers
+# Autonomous-Driving-Security-Resources
 ![The-Sensors-of-Drive-Pilot](./The-Sensors-of-Drive-Pilot.jpeg)
 
 Welcome to my GitHub repository dedicated to the field of **autonomous driving security**. Autonomous driving technology is rapidly transforming our transportation systems and modes of travel. However, along with these advancements, we must also focus on addressing the safety and security challenges associated with autonomous driving. The goal of this repository is to gather and curate literature, research papers, reports, and resources related to autonomous driving safety to assist researchers, engineers, and the general public in better understanding and exploring this critical domain. If you have any literature or resources related to autonomous driving safety, please feel free to contribute to this repository as we work together to promote the safe development of autonomous driving technology.
