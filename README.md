@@ -101,35 +101,37 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - **You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks.** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
   - Yulong Cao, S. Hrushikesh Bhupathiraju, Pirouz Naghavi, Takeshi Sugawara, Z. Morley Mao\*, Sara Rampazzi. *Usenix Security, 2023.*
+- **Who Is in Control? Practical Physical Layer Attack and Defense for mmWave-Based Sensing in Autonomous Vehicles.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9417240)]
+  - Zhi Sun, Sarankumar Balakrishnan, Lu Su, Arupjyoti Bhuyan, Pu Wang, Chunming Qiao. *IEEE Transactions on Information Forensics and Security (TIFS) 2021.*
 
-### Multi-Sensor Attack
+### Multi-Sensor Fusion Attack
 
-- **Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles**. [[pdf](https://www.usenix.org/conference/usenixsecurity22/presentation/hallyburton)]
+- **Security Analysis of {Camera-LiDAR} Fusion Against {Black-Box} Attacks on Autonomous Vehicles**. [[pdf](https://www.usenix.org/conference/usenixsecurity22/presentation/hallyburton)]
   - R. Spencer Hallyburton, Yupei Liu, Yulong Cao, Z. Morley Mao, Miroslav Pajic. *Usenix Security, 2022.*
 
 - **Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks**. [[pdf](https://arxiv.org/pdf/2106.09249.pdf)]
   - Yulong Cao, Ningfei Wang, Chaowei Xiao, Dawei Yang, Jin Fang, Ruigang Yang, Qi Alfred Chen, Mingyan Liu, Bo Li. *S&P, 2021.*
 
-### Test and Evaluate
+### Trajectory Prediction Attack
+
+- **Vehicle Trajectory Prediction Works, but Not Everywhere.** [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Bahari_Vehicle_Trajectory_Prediction_Works_but_Not_Everywhere_CVPR_2022_paper.pdf)]
+  - Mohammadhossein Bahari, Saeed Saadatnejad, Ahmad Rahimi, Mohammad Shaverdikondori, Amir Hossein Shahidzadeh, Seyed-Mohsen Moosavi-Dezfooli, Alexandre Alahi. *CVPR 2022.*
+
+### System Testing
 
 - **Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems.** [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella. *IEEE Transactions on Software Engineering (TSE), 2022.*
-
+- **DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing.**
 - **Testing the safety of self-driving vehicles by simulating perception and prediction.** [[pdf](https://arxiv.org/pdf/2008.06020.pdf)]
   - Kelvin Wong, Qiang Zhang, Ming Liang, Bin Yang, Renjie Liao, Abbas Sadat & Raquel Urtasun. *ECCV, 2020.*
-
 - **AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9251068)]
   - *International Symposium on Software Reliability Engineering (ISSRE), 2020.*
-
 - **Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9468363)]
   - Baiming Chen, Xiang Chen, Qiong Wu, Liang Li. *IEEE Transactions on Intelligent Transportation Systems (TITS), 2021*.
-
 - **DeepRoad: GAN-based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
   - MengshiZhang, Yuqun Zhang, Lingming Zhang, Cong Liu, Sarfraz Khurshid. *International Conference on Automated Software Engineering (ASE), 2018.*
-
 - **DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars.** [[pdf](https://dl.acm.org/doi/pdf/10.1145/3180155.3180220)]
   - Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray. *International Conference on Software Engineering (ICSE), 2018.*
-
 - **Systematic Testing of Convolutional Neural Networks for Autonomous Driving.** [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia. *arXiv, 2017.*
 
