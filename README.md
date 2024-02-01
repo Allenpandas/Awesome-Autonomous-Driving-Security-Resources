@@ -36,22 +36,42 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 ## Table of Contents
 
-- [Survey](#Survey)
-- [Perception Module](#Perception-Module)
+- [Langya-Ranking](#Langya-Ranking)
+
+- [Papers](#Papers)
+
+  - [Survey](#Survey)
+
   - [Camera Attack](#Camera-Attack)
   - [Lane Detection Attack](#Lane-Detection-Attack)
   - [LiDAR Attack](#LiDAR-Attack)
   - [Multi-Sensor Fusion Attack](#Multi-Sensor-Fusion-Attack)
-- [System Testing](#System-Testing)
-- [Scenario Generation](#Scenario-Generation)
-- [Anomaly Detection](#Anomaly-Detection)
-- [Other](#Other)
+  - [System Testing](#System-Testing)
+  - [Scenario Generation](#Scenario-Generation)
+  - [Anomaly Detection](#Anomaly-Detection)
+  - [Other](#Other)
+
 - [Datasets](#Datasets)
 
-## Survey
+## Langya-Ranking
+
+| Name           | Organization                     | Link                                                         |
+| -------------- | -------------------------------- | ------------------------------------------------------------ |
+| Weisong Shi    | University of Delaware           | [[HomePage](https://www.weisongshi.org/)] [[Scholar](https://scholar.google.com/citations?user=4rPcoCEAAAAJ&hl=en&oi=ao)] |
+| Yiheng Feng    | Purdue University                | [[HomePage](https://engineering.purdue.edu/CE/People/ptProfile?resource_id=244000)] [[Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Ykk41g4AAAAJ)] |
+| Z. Morley Mao  | University of Michigan           | [[HomePage](http://www.eecs.umich.edu/~zmao)] [[Scholar](https://scholar.google.com/citations?user=Ba_Ci9UAAAAJ&hl=zh-CN)] |
+| Qi Alfred Chen | University of California, Irvine | [[HomePage](https://www.ics.uci.edu/~alfchen/)] [[Scholar](https://scholar.google.com/citations?user=lcsu7m8AAAAJ)] |
+| Yulong Cao     | University of Michigan / NVIDIA  | [[HomePage](https://kikacaty.github.io/)] [[Scholar](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN)] |
+
+## Papers
+
+### Survey
 
 - **Visually Adversarial Attacks and Defenses in the Physical World: A Survey.** [[pdf](https://arxiv.org/abs/2211.01671)]
   - Xingxing Wei,Bangzheng Pu, Jiefan Lu, Baoyuan Wu. *arXiv, 2023.*
+
+- **Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey.** [[pdf](https://arxiv.org/pdf/2307.04370.pdf)]
+  - Pranav Singh Chib, Pravendra Singh. *arXiv, 2023.*
 
 - **Deep learning for safe autonomous driving: Current challenges and future directions.** [[pdf](https://www.researchgate.net/profile/Khan-Muhammad-5/publication/347865238_Deep_Learning_for_Safe_Autonomous_Driving_Current_Challenges_and_Future_Directions/links/5fec60fba6fdccdcb817162a/Deep-Learning-for-Safe-Autonomous-Driving-Current-Challenges-and-Future-Directions.pdf)]
   - Khan Muhammad, Amin Ullah, Jaime Lloret, Javier Del Ser, Victor Hugo C. de Albuquerque. *IEEE Transactions on Intelligent Transportation Systems, 2021*.
@@ -61,8 +81,6 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 - **Autonomous driving security: State of the art and challenges.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9625017/)]
   - Cong Gao, Geng Wang, Weisong Shi, Zhongmin Wang, Yanping Chen. *IEEE Internet of Things Journal, 2021.*
-
-## Perception Module
 
 ### Camera Attack
 
@@ -96,7 +114,7 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 - **Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks**. [[pdf](https://arxiv.org/pdf/2106.09249.pdf)]
   - Yulong Cao, Ningfei Wang, Chaowei Xiao, Dawei Yang, Jin Fang, Ruigang Yang, Qi Alfred Chen, Mingyan Liu, Bo Li. *S&P, 2021.*
 
-## Test and Evaluate
+### Test and Evaluate
 
 - **Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems.** [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella. *IEEE Transactions on Software Engineering (TSE), 2022.*
@@ -119,7 +137,7 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 - **Systematic Testing of Convolutional Neural Networks for Autonomous Driving.** [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia. *arXiv, 2017.*
 
-## Scenario Generation
+### Scenario Generation
 
 - **A survey on safety-critical driving scenario generation—A methodological perspective.** [[pdf](https://arxiv.org/pdf/2202.02215)]
   - Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao. *IEEE Transactions on Intelligent Transportation Systems (TITS), 2023*.
@@ -136,21 +154,17 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 - **Learning to Collide: An Adaptive Safety-Critical Scenarios Generating Method.** [[pdf](https://arxiv.org/abs/2003.01197)]
   - Wenhao Ding, Baiming Chen, Minjun Xu, Ding Zhao. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.*
 
-
-## Anomaly Detection
+### Anomaly Detection
 
 - **Detecting the Anomalies in LiDAR Pointcloud.** [[pdf](https://arxiv.org/abs/2308.00187)]
   - Chiyu Zhang, Ji Han, Yao Zou, Kexin Dong, Yujia Li, Junchun Ding, Xiaoling Han. *arXiv, 2023.*
 
 ## End to End
 
-- **Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey.** [[pdf](https://arxiv.org/pdf/2307.04370.pdf)]
-  - Pranav Singh Chib, Pravendra Singh. *arXiv, 2023.*
-
 - **Adversarial Driving: Attacking End-to-End Autonomous Driving.** [[pdf](https://ieeexplore.ieee.org/abstract/document/10186386)]
   - Han Wu, Syed Yunas, Sareh Rowlands, Wenjie Ruan, Johan Wahlström. *IEEE Intelligent Vehicles Symposium, 2023*.
 
-## Other
+### Other
 
 - **Reasoning about Safety of Learning-Enabled Components in Autonomous Cyber-physical Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3195970.3199852)]
   - Cumhur Erkan Tuncali, James Kapinski, Hisahiro Ito, Jyotirmoy V. Deshmukh. *Annual Design Automation Conference, 2018.*
