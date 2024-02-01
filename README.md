@@ -38,19 +38,19 @@ Welcome to my GitHub repository dedicated to the field of **autonomous driving s
 
 ## Relevant Conferences
 
-|      Abbr.      | Full Name                                                  |       Category       | Rank  |
-| :-------------: | ---------------------------------------------------------- | :------------------: | :---: |
-|       CCS       | ACM Conference on Computer and Communications Security     |       Security       | CCF-A |
-|      NDSS       | Network and Distributed System Security Symposium          |       Security       | CCF-A |
-|  S&P (Oakland)  | IEEE Symposium on Security and Privacy                     |       Security       | CCF-A |
-| Usenix Security | USENIX Security Symposium                                  |       Security       | CCF-A |
-|      ECCV       | European Conference on Computer Vision                     |   Computer Vision    | CCF-B |
-|      CVPR       | Computer Vision and Pattern Recognition                    |   Computer Vision    | CCF-A |
-|      ICCV       | IEEE International Conference on Computer Vision           |   Computer Vision    | CCF-A |
-|     ACM MM      | ACM International Conference on Multimedia                 |      Multimedia      | CCF-A |
-|       ASE       | International Conference on Automated Software Engineering | Software Engineering | CCF-A |
-|      ICSE       | International Conference on Software Engineering           | Software Engineering | CCF-A |
-|      ISSTA      | International Symposium on Software Testing and Analysis   |   Software Testing   | CCF-A |
+|      Abbr.      | Full Name                                                  |       Category       | CCF-Rank |
+| :-------------: | ---------------------------------------------------------- | :------------------: | :------: |
+|       CCS       | ACM Conference on Computer and Communications Security     |       Security       |  CCF-A   |
+|      NDSS       | Network and Distributed System Security Symposium          |       Security       |  CCF-A   |
+|  S&P (Oakland)  | IEEE Symposium on Security and Privacy                     |       Security       |  CCF-A   |
+| Usenix Security | USENIX Security Symposium                                  |       Security       |  CCF-A   |
+|      ECCV       | European Conference on Computer Vision                     |   Computer Vision    |  CCF-B   |
+|      CVPR       | Computer Vision and Pattern Recognition                    |   Computer Vision    |  CCF-A   |
+|      ICCV       | IEEE International Conference on Computer Vision           |   Computer Vision    |  CCF-A   |
+|     ACM MM      | ACM International Conference on Multimedia                 |      Multimedia      |  CCF-A   |
+|       ASE       | International Conference on Automated Software Engineering | Software Engineering |  CCF-A   |
+|      ICSE       | International Conference on Software Engineering           | Software Engineering |  CCF-A   |
+|      ISSTA      | International Symposium on Software Testing and Analysis   |   Software Testing   |  CCF-A   |
 
 
 
