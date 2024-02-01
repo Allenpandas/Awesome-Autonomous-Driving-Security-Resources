@@ -37,11 +37,8 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 ## Table of Contents
 
 - [Langya-Ranking](#Langya-Ranking)
-
 - [Papers](#Papers)
-
   - [Survey](#Survey)
-
   - [Camera Attack](#Camera-Attack)
   - [Lane Detection Attack](#Lane-Detection-Attack)
   - [LiDAR Attack](#LiDAR-Attack)
@@ -50,7 +47,6 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
   - [Scenario Generation](#Scenario-Generation)
   - [Anomaly Detection](#Anomaly-Detection)
   - [Other](#Other)
-
 - [Datasets](#Datasets)
 
 ## Langya-Ranking
