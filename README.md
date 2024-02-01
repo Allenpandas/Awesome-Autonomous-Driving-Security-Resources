@@ -9,34 +9,11 @@ Welcome to my GitHub repository dedicated to the field of **autonomous driving s
 
 - 2023/10/10: I initialize the repository and add papers.
 
-## Contributing
-
-This is a collection of research and review papers for **autonomous driving security (AD security)**. Feel free to star and fork.
-
-Maintainers:
-
-- [Yalun Wu](https://github.com/Allenpandas) (Beijing Jiaotong University)
-- [Yingxiao Xiang](https://github.com/YingxiaoXiang) (Chinese Academy of Sciences)
-
-We are looking for more contributors and maintainers! Please feel free to [pull request](https://github.com/Allenpandas/Autonomous-Driving-Security-Papers/pulls).
-
-<p align="center">
-  <img src="./we-need-you.jpeg" alt="We Need You!">
-</p>
-Markdown format:
-
-```
-- **Paper Name**.
-  [[pdf](link)]
-  [[code](link)]
-  - Author 1, Author 2, and Author 3. *journal/conference, year*.
-```
-
-For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@bjtu.edu.cn)
-
 ## Table of Contents
 
 - [Langya-Ranking](#Langya-Ranking)
+- [Relevant Conferences](#Relevant-Conferences)
+- [Relevant Journals](#Relevant-Journals)
 - [Papers](#Papers)
   - [Survey](#Survey)
   - [Camera Attack](#Camera-Attack)
@@ -61,20 +38,32 @@ For any questions, feel free to contact: [wuyalun1@bjtu.edu.cn](mailto:wuyalun1@
 
 ## Relevant Conferences
 
-|      Abbr.      | Full Name                                                    |       Category       | CCF-Rank |
-| :-------------: | ------------------------------------------------------------ | :------------------: | :------: |
-|       CCS       | ACM Conference on Computer and Communications Security       |       Security       |  CCF-A   |
-|      NDSS       | Network and Distributed System Security Symposium            |       Security       |  CCF-A   |
-|  S&P (Oakland)  | IEEE Symposium on Security and Privacy                       |       Security       |  CCF-A   |
-| Usenix Security | USENIX Security Symposium                                    |       Security       |  CCF-A   |
-|      ECCV       | European Conference on Computer Vision                       |   Computer Vision    |  CCF-B   |
-|      CVPR       | Computer Vision and Pattern Recognition                      |   Computer Vision    |  CCF-A   |
-|      ICCV       | IEEE International Conference on Computer Vision             |   Computer Vision    |  CCF-A   |
-|     ACM MM      | ACM International Conference on Multimedia                   |      Multimedia      |  CCF-A   |
-|       ASE       | International Conference on Automated Software Engineering   | Software Engineering |  CCF-A   |
-|      ICSE       | International Conference on Software Engineering             | Software Engineering |  CCF-A   |
-|       FSE       | ACM SIGSOFT Conference on the Foundations of Software Engineering | Software Engineering |  CCF-A   |
-|      ISSTA      | International Symposium on Software Testing and Analysis     |   Software Testing   |  CCF-A   |
+|      Abbr.      | Full Name                                                    |       Category       | Rank  |
+| :-------------: | ------------------------------------------------------------ | :------------------: | :---: |
+|       CCS       | ACM Conference on Computer and Communications Security       |       Security       | CCF-A |
+|      NDSS       | Network and Distributed System Security Symposium            |       Security       | CCF-A |
+|  S&P (Oakland)  | IEEE Symposium on Security and Privacy                       |       Security       | CCF-A |
+| Usenix Security | USENIX Security Symposium                                    |       Security       | CCF-A |
+|      ECCV       | European Conference on Computer Vision                       |   Computer Vision    | CCF-B |
+|      CVPR       | Computer Vision and Pattern Recognition                      |   Computer Vision    | CCF-A |
+|      ICCV       | IEEE International Conference on Computer Vision             |   Computer Vision    | CCF-A |
+|     ACM MM      | ACM International Conference on Multimedia                   |      Multimedia      | CCF-A |
+|       ASE       | International Conference on Automated Software Engineering   | Software Engineering | CCF-A |
+|      ICSE       | International Conference on Software Engineering             | Software Engineering | CCF-A |
+|       FSE       | ACM SIGSOFT Conference on the Foundations of Software Engineering | Software Engineering | CCF-A |
+|      ISSTA      | International Symposium on Software Testing and Analysis     |   Software Testing   | CCF-A |
+
+
+
+## Relevant Journals
+
+| Abbr. | Full Name                                               |       Rank        |
+| :---: | ------------------------------------------------------- | :---------------: |
+| TIFS  | IEEE Transactions on Information Forensics and Security | CCF-A / 中科院1区 |
+| TITS  | IEEE Transactions on Intelligent Transportation Systems | CCF-B / 中科院1区 |
+|  TIV  | IEEE Transactions on Intelligent Vehicles               |     中科院1区     |
+|  TVT  | IEEE Transactions on Vehicular Technology               |     中科院2区     |
+|  TRE  | IEEE Transactions on Reliability                        | CCF-C / 中科院2区 |
 
 
 
