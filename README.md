@@ -18,15 +18,25 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 
 ## Table of Contents
 
-### Langya-Ranking
+- [Research Groups](#Research Groups)
+- [Relevant Conferences](#Relevant Conferences)
+- [Relevant Journals](#Relevant Journals)
+- [Relevant Competitions](#Relevant Competitions)
+- [Papers](Papers)
 
-| Name           | Organization                     | Link                                                         |
-| -------------- | -------------------------------- | ------------------------------------------------------------ |
-| Weisong Shi    | University of Delaware           | [[HomePage](https://www.weisongshi.org/)] [[Scholar](https://scholar.google.com/citations?user=4rPcoCEAAAAJ&hl=en&oi=ao)] |
-| Yiheng Feng    | Purdue University                | [[HomePage](https://engineering.purdue.edu/CE/People/ptProfile?resource_id=244000)] [[Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Ykk41g4AAAAJ)] |
-| Z. Morley Mao  | University of Michigan           | [[HomePage](http://www.eecs.umich.edu/~zmao)] [[Scholar](https://scholar.google.com/citations?user=Ba_Ci9UAAAAJ&hl=zh-CN)] |
-| Qi Alfred Chen | University of California, Irvine | [[HomePage](https://www.ics.uci.edu/~alfchen/)] [[Scholar](https://scholar.google.com/citations?user=lcsu7m8AAAAJ)] |
-| Yulong Cao     | University of Michigan / NVIDIA  | [[HomePage](https://kikacaty.github.io/)] [[Scholar](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN)] |
+---
+
+### Research Groups
+
+- University of Delaware
+  - Weisong Shi [[HomePage](https://www.weisongshi.org/)] [[Google Scholar](https://scholar.google.com/citations?user=4rPcoCEAAAAJ&hl=en&oi=ao)]
+- Purdue University
+  - Yiheng Feng [[HomePage](https://engineering.purdue.edu/CE/People/ptProfile?resource_id=244000)] [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Ykk41g4AAAAJ)]
+- University of Michigan
+  - Z. Morley Mao [[HomePage](http://www.eecs.umich.edu/~zmao)] [[Google Scholar](https://scholar.google.com/citations?user=Ba_Ci9UAAAAJ&hl=zh-CN)]
+  - Yulong Cao [[HomePage](https://kikacaty.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN)]
+- University of California, Irvine
+  - Qi Alfred Chen [[HomePage](https://www.ics.uci.edu/~alfchen/)] [[Google Scholar](https://scholar.google.com/citations?user=lcsu7m8AAAAJ)]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -61,11 +71,11 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Relevant Competition
+### Relevant Competitions
 
 
 
-### Paper Collection
+### Papers
 
 #### Survey
 
