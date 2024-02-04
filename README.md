@@ -14,7 +14,7 @@
 
 ## Contributing
 
-Please feel free to send me pull requests to add links.
+Please feel free to send me [pull requests](https://github.com/Allenpandas/Autonomous-Driving-Security-Resources/pulls) to add links.
 
 ## Table of Contents
 
