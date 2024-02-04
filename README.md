@@ -31,8 +31,6 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 
 ### Research Groups
 
-#### Autonomous Driving Security
-
 - University of Delaware
   - Weisong Shi [[HomePage](https://www.weisongshi.org/)] [[Google Scholar](https://scholar.google.com/citations?user=4rPcoCEAAAAJ&hl=en&oi=ao)]
 - Purdue University
@@ -43,34 +41,30 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 - University of California, Irvine
   - Qi Alfred Chen [[HomePage](https://www.ics.uci.edu/~alfchen/)] [[Google Scholar](https://scholar.google.com/citations?user=lcsu7m8AAAAJ)]
 
-#### Autonomous Driving
-
-- 清华大学·车辆与运载学院·智能出行研究所 [[link](http://www.svm.tsinghua.edu.cn/index.html)]
-  - 李克强院士、杨殿阁、李升波等
-- 清华大学·智能产业研究院·AIR团队 [[link](https://air.tsinghua.edu.cn/)]
-  - 张亚勤院士等
-- 清华大学·交叉信息研究院·MARS Lab [[link](http://group.iiis.tsinghua.edu.cn/~marslab/#/)]
-  - 赵行等
-- 北京大学·智能学院·智能车辆与移动机器人实验室 [link](https://www.cis.pku.edu.cn/)]
-  - 赵卉菁等
-- 北京理工大学·机械与车辆学院·车辆工程系 [[link](https://me.bit.edu.cn/jgsz/jlgcx1/index.htm)]
-  - 陈慧岩、龚建伟、熊光明、倪俊等
-- 北京航空航天大学·交通科学与工程学院·交通运输工程系 [[link](https://transportation.buaa.edu.cn/xkjs/xkfx.htm)]
-  - 余贵珍、杨士春、于海洋等
-- 北京交通大学·计算机与信息技术学院·信息科学研究所 [[link](http://iis.bjtu.edu.cn/)]
-  - 赵耀、林春雨等
-- 西安交通大学·人工智能学院·人工智能与机器人研究所 [[link](http://www.aiar.xjtu.edu.cn/)]
-  - 郑南宁院士等
-- 浙江大学·控制学院·智能驾驶与未来交通研究中心 [[link](http://idft.zju.edu.cn/)]
-  - 刘勇、冯冬芹等
-- 南京理工大学·自动化研究院/计算机学院·无人车团队 [[link](http://www.nustcar.com/index.php?s=/home/article/lists/category/yjyjs.html)]
-  - 任明武、杨静宇、石朝侠等
-- 同济大学·汽车学院·自主智能无人系统全国重点实验室/智能车辆与多智能体协同控制实验室/机器人与人工智能实验室（RAIL） [[link](https://ivcm.tongji.edu.cn/sysjj.htm)]
-  - 熊璐、朱西产、张皓等
-- 华中科技大学·人工智能与自动化学院 [[link](http://aia.hust.edu.cn/)]
-  - 王兴刚、何顶新等
-- 上海交通大学·机械与动力工程学院·智能汽车研究所/智能车实验室 [[link](https://cyberc3.sjtu.edu.cn/)]
-  - 殷承良、杨明等
+- Tsinghua University
+  - [School of Behicle and Mobility](http://www.svm.tsinghua.edu.cn/index.html) - Keqiang Li, Dian-ge Yang, Shengbo Li et al.
+  - [Institute for AI Industry esearch](https://air.tsinghua.edu.cn/) - Yaqin Zhang et al.
+  - [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab) - Hang Zhao et al.
+- Peking University
+  - [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/) - Rongqing Zhao et al.
+- Beijing Institute of Technology
+  - [School of Mechanical Engineering](https://me.bit.edu.cn/jgsz/jlgcx1/index.htm) - Huiyan Chen, Jianwei Gong, Guangming Xiong, Jun Ni et al.
+- Beihang University
+  - [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/xkjs/xkfx.htm) - Guizhen Yu, Shichun Yang, Haiyang Yu et al.
+- Beijing Jiaotong University
+  - [Institute of Information Science](http://iis.bjtu.edu.cn/) - Yao Zhao, Chunyu Lin et al.
+- Xi'an Jiaotong University
+  - [College of Artificial Ingelligence](http://www.aiar.xjtu.edu.cn/) - Nanning Zheng et al.
+- Zhejiang University
+  - [Research Center for Intelligent Drive and Future Traffic College of Control Science and Engineering](http://idft.zju.edu.cn/) - Yong Liu, Dongqin Feng et al.
+- Nanjing University of Science and Technology
+  - [Automation Research Institute](http://www.nustcar.com/index.php?s=/home/article/lists/category/yjyjs.html) - Minghu Ren, Jingyu Yang, Zhaoxia Shi et al.
+- Tongji University
+  - [Intelligent Vehicle and Cooperative control of Multi-agent Lab](https://ivcm.tongji.edu.cn/sysjj.htm) - Lu Xiong, Xichan Zhu, Hao Zhang et al.
+- Huazhong University of Science and Technology
+  - [School of Artificial Intelligence and Automation](http://aia.hust.edu.cn/) - Xinggang Wang, Dingxin He, et al.
+- Shanghai Jiaotong Univerisity
+  - [CyberC3 Intelligent Vehicle Labs](https://cyberc3.sjtu.edu.cn/) - Chengliang Yin, Ming Yang, et al.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -107,7 +101,13 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 
 ### Relevant Competitions
 
+- World Intelligent Driving Challenge, WIDC
+- China International Autopilot Challenge, CIAC
+- Intelligent Vehicle Future Challenge, IVFC
+- [Kaggle](https://link.zhihu.com/?target=https%3A//www.kaggle.com/)
+- [Tianchi](https://link.zhihu.com/?target=https%3A//tianchi.aliyun.com/)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Papers
 
