@@ -1,7 +1,7 @@
 # Autonomous-Driving-Security-Resources
 <p align="center" id="top"><img src="./images/logo.jpg" width=100%></p>
 
-> 欢迎来到我的GitHub仓库，这里是一个专注于 **自动驾驶安全** 的知识库。自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
+> 🚗 A repository for documenting and exploring the world of autonomous driving safety, featuring a curated collection of research groups, conferences, journals, competitions, papers, reports, and resource. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 <p align='center'>
 <img src="https://img.shields.io/github/stars/Allenpandas/Autonomous-Driving-Security-Resources.svg">
@@ -21,15 +21,37 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 
 ## Table of Contents
 
-- [Research Groups](#Research-Groups)
+- [Foundations](#Foundations)
+- [Revelant Repositories](#Revelant-Repositories)
+- [Research Labs](#Research-Labs)
 - [Relevant Conferences](#Relevant-Conferences)
 - [Relevant Journals](#Relevant-Journals)
 - [Relevant Competitions](#Relevant-Competitions)
 - [Papers](Papers)
 
----
+## Foundations
 
-### Research Groups
+- **Artificial Intelligence**
+  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
+  - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap constructed from outline to detail, old to state-of-the-art, from generic to specific areas focus on state-of-the-art for anyone starting in Deep Learning. Maintained by, Flood Sung.
+  - [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) - Deep Learning curriculum meant to be a starting point for everyone interested in seriously studying the field.
+
+- **Robotics**
+  - [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) - A list of various books, courses and other resources for robotics, maintained by kiloreux.
+
+- **Computer Vision**
+  - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources, maintained by Jia-Bin Huang
+  - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision, maintained by Jiwon Kim, Heesoo Myeong, Myungsub Choi, Jung Kwon Lee, Taeksoo Kim
+
+### Revelant Repositories
+
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision.
+- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) - A list of various books, courses and other resources for robotics. 
+- [Autonomous Driving Cookbook](https://github.com/microsoft/AutonomousDrivingCookbook) - Scenarios, tutorials and demos for Autonomous Driving.
+- [Slam in Autonomous Driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - SLAM Technology in Autonomous Driving corresponds to open source code.
+- [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration)  - A Multi-sensor Calibration Toolbox for Autonomous Driving.
+
+### Research Labs
 
 - University of Delaware
   - Weisong Shi [[HomePage](https://www.weisongshi.org/)] [[Google Scholar](https://scholar.google.com/citations?user=4rPcoCEAAAAJ&hl=en&oi=ao)]
