@@ -44,9 +44,6 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
   - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision, maintained by Jiwon Kim, Heesoo Myeong, Myungsub Choi, Jung Kwon Lee, Taeksoo Kim
 
 ### Revelant Repositories
-
-- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision.
-- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) - A list of various books, courses and other resources for robotics. 
 - [Autonomous Driving Cookbook](https://github.com/microsoft/AutonomousDrivingCookbook) - Scenarios, tutorials and demos for Autonomous Driving.
 - [Slam in Autonomous Driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - SLAM Technology in Autonomous Driving corresponds to open source code.
 - [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration)  - A Multi-sensor Calibration Toolbox for Autonomous Driving.
@@ -62,7 +59,6 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
   - Yulong Cao [[HomePage](https://kikacaty.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN)]
 - University of California, Irvine
   - Qi Alfred Chen [[HomePage](https://www.ics.uci.edu/~alfchen/)] [[Google Scholar](https://scholar.google.com/citations?user=lcsu7m8AAAAJ)]
-
 - Tsinghua University
   - [School of Behicle and Mobility](http://www.svm.tsinghua.edu.cn/index.html) - Keqiang Li, Dian-ge Yang, Shengbo Li et al.
   - [Institute for AI Industry esearch](https://air.tsinghua.edu.cn/) - Yaqin Zhang et al.
