@@ -32,22 +32,22 @@ Please feel free to send me pull requests to add links.
 
 ## Relevant Conferences
 
-- Security
-  - ACM Conference on Computer and Communications Security (CCS) - CCF-A
-  - Network and Distributed System Security Symposium (NDSS) - CCF-A
-  - IEEE Symposium on Security and Privacy (S&P) - CCF-A
-  - USENIX Security Symposium - CCF-A
-- Artificial Intelligence & Computer Vision
-  - Computer Vision and Pattern Recognition (CVPR) - CCF-A
-  - IEEE International Conference on Computer Vision (ICCV) - CCF-A
-  - European Conference on Computer Vision (ECCV) - CCF-B
-- Software Engineering
-  - International Conference on Automated Software Engineering (ASE) - CCF-A
-  - International Conference on Software Engineering (ICSE) - CCF-A
-  - International Symposium on Software Testing and Analysis (ISSTA) - CCF-A
+- **Security**
+  - [ACM Conference on Computer and Communications Security (CCS)](https://dblp.org/db/conf/ccs/index.html) - CCF-A
+  - [Network and Distributed System Security Symposium (NDSS)](https://dblp.org/db/conf/ndss/index.html) - CCF-A
+  - [IEEE Symposium on Security and Privacy (S&P)](https://dblp.org/db/conf/sp/index.html) - CCF-A
+  - [USENIX Security Symposium](https://dblp.org/db/conf/uss/index.html) - CCF-A
+- **Artificial Intelligence & Computer Vision**
+  - [Computer Vision and Pattern Recognition (CVPR)](https://dblp.org/db/conf/cvpr/index.html) - CCF-A
+  - [IEEE International Conference on Computer Vision (ICCV)](https://dblp.org/db/conf/iccv/index.html) - CCF-A
+  - [European Conference on Computer Vision (ECCV)](https://dblp.org/db/conf/eccv/index.html) - CCF-B
+- **Software Engineering**
+  - [International Conference on Automated Software Engineering (ASE)](https://dblp.org/db/conf/kbse/index.html) - CCF-A
+  - [International Conference on Software Engineering (ICSE)](https://dblp.org/db/conf/icse/index.html) - CCF-A
+  - [International Symposium on Software Testing and Analysis (ISSTA)](https://dblp.org/db/conf/issta/index.html) - CCF-A
 
-- Multimedia
-  - ACM International Conference on Multimedia - CCF-A
+- **Multimedia**
+  - [ACM International Conference on Multimedia (ACM MM)](https://dblp.org/db/conf/mm/index.html)  - CCF-A
 
 ## Relevant Journals
 
