@@ -61,7 +61,7 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
   - [Department of Electrical Engineering and Computer Science ](http://www.eecs.umich.edu/) - [Z. Morley Mao](http://www.eecs.umich.edu/~zmao), Yulong Cao et al.
   
 - **University of California, Irvine**
-  - Department of Computer Science - [Qi Alfred Chen](https://scholar.google.com/citations?user=lcsu7m8AAAAJ)) et al.
+  - Department of Computer Science - [Qi Alfred Chen](https://scholar.google.com/citations?user=lcsu7m8AAAAJ) et al.
   
 - **Tsinghua University**
   - [School of Behicle and Mobility](http://www.svm.tsinghua.edu.cn/index.html) - [Keqiang Li](https://scholar.google.com/citations?user=x58fnLQAAAAJ&hl=zh-CN&oi=ao), Dian-ge Yang, [Shengbo Li](https://scholar.google.com/citations?user=Dxiw1K8AAAAJ&hl=zh-CN&oi=ao) et al.
