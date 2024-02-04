@@ -30,7 +30,7 @@ Please feel free to send me pull requests to add links.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Relevant Conferences
+### Relevant Conferences
 
 - **Security**
   - [ACM Conference on Computer and Communications Security (CCS)](https://dblp.org/db/conf/ccs/index.html) - CCF-A
@@ -49,17 +49,25 @@ Please feel free to send me pull requests to add links.
 - **Multimedia**
   - [ACM International Conference on Multimedia (ACM MM)](https://dblp.org/db/conf/mm/index.html)  - CCF-A
 
-## Relevant Journals
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-- IEEE Transactions on Information Forensics and Security (TIFS) - CCF-B / JCR Q1
-- IEEE Transactions on Intelligent Transportation Systems (TITS) - CCF-B / JCR Q1
-- IEEE Transactions on Intelligent Vehicles (TIV) - JCR Q1
-- IEEE Transactions on Vehicular Technology (TVT) - JCR Q2
-- IEEE Transactions on Reliability (TR) - CCF-C / JCR Q2
+### Relevant Journals
 
-## Paper Collection
+- [IEEE Transactions on Information Forensics and Security (TIFS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) - CCF-B / JCR Q1
+- [IEEE Transactions on Intelligent Transportation Systems (TITS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) - CCF-B / JCR Q1
+- [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) - JCR Q1
+- [IEEE Transactions on Vehicular Technology (TVT)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) - JCR Q2
+- [IEEE Transactions on Reliability (TR)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24) - CCF-C / JCR Q2
 
-### Survey
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Relevant Competition
+
+
+
+### Paper Collection
+
+#### Survey
 
 - **Visually Adversarial Attacks and Defenses in the Physical World: A Survey.** [[pdf](https://arxiv.org/abs/2211.01671)]
   - Xingxing Wei,Bangzheng Pu, Jiefan Lu, Baoyuan Wu. *arXiv, 2023.*
@@ -76,12 +84,12 @@ Please feel free to send me pull requests to add links.
 - **Autonomous driving security: State of the art and challenges.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9625017/)]
   - Cong Gao, Geng Wang, Weisong Shi, Zhongmin Wang, Yanping Chen. *IEEE Internet of Things Journal, 2021.*
 
-### Camera Attack
+#### Camera Attack and Defense
 
 - **Attacking vision-based perception in end-to-end autonomous driving models.** [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1383762120300606)] [[code](https://github.com/xz-group/AdverseDrive)]
   - Adith Boloor, Karthik Garimella, Xin He, Christopher Gill, Yevgeniy Vorobeychik, Xuan Zhang. *Journal of Systems Architecture, 2020*.
 
-### Lane Detection Attack
+#### Lane Detection Attack and Defense
 
 - **Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection.** [[pdf](https://arxiv.org/abs/2307.14540)]
   - Junjie Shen, Yunpeng Luo, Ziwen Wan, Qi Alfred Chen. *arXiv, 2023.*
@@ -95,14 +103,14 @@ Please feel free to send me pull requests to add links.
 - **Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack.** [[pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/sato)]
   - Takami Sato, Junjie Shen, Ningfei Wang, Yunhan Jia, Xue Lin, Qi Alfred Chen. *Usenix Security, 2021.*
 
-### LiDAR Attack
+#### LiDAR Attack and Defense
 
 - **You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks.** [[pdf](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)]
   - Yulong Cao, S. Hrushikesh Bhupathiraju, Pirouz Naghavi, Takeshi Sugawara, Z. Morley Mao\*, Sara Rampazzi. *Usenix Security, 2023.*
 - **Who Is in Control? Practical Physical Layer Attack and Defense for mmWave-Based Sensing in Autonomous Vehicles.** [[pdf](https://ieeexplore.ieee.org/abstract/document/9417240)]
   - Zhi Sun, Sarankumar Balakrishnan, Lu Su, Arupjyoti Bhuyan, Pu Wang, Chunming Qiao. *IEEE Transactions on Information Forensics and Security (TIFS) 2021.*
 
-### Multi-Sensor Fusion Attack
+#### Multi-Sensor Fusion Attack and Defense
 
 - **Security Analysis of {Camera-LiDAR} Fusion Against {Black-Box} Attacks on Autonomous Vehicles**. [[pdf](https://www.usenix.org/conference/usenixsecurity22/presentation/hallyburton)]
   - R. Spencer Hallyburton, Yupei Liu, Yulong Cao, Z. Morley Mao, Miroslav Pajic. *Usenix Security, 2022.*
@@ -110,12 +118,12 @@ Please feel free to send me pull requests to add links.
 - **Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks**. [[pdf](https://arxiv.org/pdf/2106.09249.pdf)]
   - Yulong Cao, Ningfei Wang, Chaowei Xiao, Dawei Yang, Jin Fang, Ruigang Yang, Qi Alfred Chen, Mingyan Liu, Bo Li. *S&P, 2021.*
 
-### Trajectory Prediction Attack
+#### Trajectory Prediction Attack and Defense
 
 - **Vehicle Trajectory Prediction Works, but Not Everywhere.** [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Bahari_Vehicle_Trajectory_Prediction_Works_but_Not_Everywhere_CVPR_2022_paper.pdf)]
   - Mohammadhossein Bahari, Saeed Saadatnejad, Ahmad Rahimi, Mohammad Shaverdikondori, Amir Hossein Shahidzadeh, Seyed-Mohsen Moosavi-Dezfooli, Alexandre Alahi. *CVPR 2022.*
 
-### System Testing
+#### System Testing
 
 - **Mind the gap! a study on the transferability of virtual vs physical-world testing of autonomous driving systems.** [[pdf](https://arxiv.org/pdf/2112.11255)]
   - Andrea Stocco, Brian Pulfer, Paolo Tonella. *IEEE Transactions on Software Engineering (TSE), 2022.*
@@ -133,7 +141,7 @@ Please feel free to send me pull requests to add links.
 - **Systematic Testing of Convolutional Neural Networks for Autonomous Driving.** [[pdf](https://arxiv.org/abs/1708.03309)]
   - Tommaso Dreossi, Shromona Ghosh, Alberto Sangiovanni-Vincentelli, Sanjit A. Seshia. *arXiv, 2017.*
 
-### Scenario Generation
+#### Scenario Generation
 
 - **A survey on safety-critical driving scenario generation—A methodological perspective.** [[pdf](https://arxiv.org/pdf/2202.02215)]
   - Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao. *IEEE Transactions on Intelligent Transportation Systems (TITS), 2023*.
@@ -150,22 +158,22 @@ Please feel free to send me pull requests to add links.
 - **Learning to Collide: An Adaptive Safety-Critical Scenarios Generating Method.** [[pdf](https://arxiv.org/abs/2003.01197)]
   - Wenhao Ding, Baiming Chen, Minjun Xu, Ding Zhao. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.*
 
-### Anomaly Detection
+#### Anomaly Detection
 
 - **Detecting the Anomalies in LiDAR Pointcloud.** [[pdf](https://arxiv.org/abs/2308.00187)]
   - Chiyu Zhang, Ji Han, Yao Zou, Kexin Dong, Yujia Li, Junchun Ding, Xiaoling Han. *arXiv, 2023.*
 
-## End to End
+#### End to End
 
 - **Adversarial Driving: Attacking End-to-End Autonomous Driving.** [[pdf](https://ieeexplore.ieee.org/abstract/document/10186386)]
   - Han Wu, Syed Yunas, Sareh Rowlands, Wenjie Ruan, Johan Wahlström. *IEEE Intelligent Vehicles Symposium, 2023*.
 
-### Other
+#### Other
 
 - **Reasoning about Safety of Learning-Enabled Components in Autonomous Cyber-physical Systems.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3195970.3199852)]
   - Cumhur Erkan Tuncali, James Kapinski, Hisahiro Ito, Jyotirmoy V. Deshmukh. *Annual Design Automation Conference, 2018.*
 
-## Datasets
+#### Datasets
 
 - **AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving.** [[pdf](https://arxiv.org/pdf/2309.06547.pdf)]
   - Ahmed Rida Sekkat, Rohit Mohan, Oliver Sawade, Elmar Matthes, Abhinav Valada. *arXiv, 2023.*
