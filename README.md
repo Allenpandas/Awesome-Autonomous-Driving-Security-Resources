@@ -18,10 +18,10 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 
 ## Table of Contents
 
-- [Research Groups](#Research Groups)
-- [Relevant Conferences](#Relevant Conferences)
-- [Relevant Journals](#Relevant Journals)
-- [Relevant Competitions](#Relevant Competitions)
+- [Research Groups](#Research-Groups)
+- [Relevant Conferences](#Relevant-Conferences)
+- [Relevant Journals](#Relevant-Journals)
+- [Relevant Competitions](#Relevant-Competitions)
 - [Papers](Papers)
 
 ---
