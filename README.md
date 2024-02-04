@@ -1,32 +1,22 @@
 # Autonomous-Driving-Security-Resources
-![The-Sensors-of-Drive-Pilot](./The-Sensors-of-Drive-Pilot.jpeg)
+<p align="center" id="top"><img src="./images/logo.jpg" width=100%></p>
 
-Welcome to my GitHub repository dedicated to the field of **autonomous driving security**. Autonomous driving technology is rapidly transforming our transportation systems and modes of travel. However, along with these advancements, we must also focus on addressing the safety and security challenges associated with autonomous driving. The goal of this repository is to gather and curate literature, research papers, reports, and resources related to autonomous driving safety to assist researchers, engineers, and the general public in better understanding and exploring this critical domain. If you have any literature or resources related to autonomous driving safety, please feel free to contribute to this repository as we work together to promote the safe development of autonomous driving technology.
+> 欢迎来到我的GitHub仓库，这里是一个专注于 **自动驾驶安全** 的知识库。自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
 
-欢迎来到我的GitHub仓库，这里是一个专注于 **自动驾驶安全** 的知识库。自动驾驶技术正日益改变着我们的交通系统和出行方式，但与之同时，我们也必须关注和解决与自动驾驶相关的安全挑战。这个仓库的目标是收集和整理与自动驾驶安全相关的文献、研究论文、报告和资源，以帮助研究人员、工程师和社会大众更好地了解和探讨这一重要领域的问题。如果您有任何有关自动驾驶安全的文献或资源，欢迎贡献到这个仓库，让我们一起努力推动自动驾驶技术的安全发展。
+<p align='center'>
+<img src="https://img.shields.io/github/stars/Allenpandas/Autonomous-Driving-Security-Resources.svg">
+<img src="https://img.shields.io/github/forks/Allenpandas/Autonomous-Driving-Security-Resources.svg">
+<img src="https://img.shields.io/github/repo-size/Allenpandas/Autonomous-Driving-Security-Resources.svg">
+<img src="https://img.shields.io/github/issues/Allenpandas/Autonomous-Driving-Security-Resources.svg">
+<img src="https://img.shields.io/github/issues-pr/Allenpandas/Autonomous-Driving-Security-Resources.svg">
+</p>
+## Contributing
 
-## News
-
-- 2023/10/10: I initialize the repository and add papers.
+Please feel free to send me pull requests to add links.
 
 ## Table of Contents
 
-- [Langya-Ranking](#Langya-Ranking)
-- [Relevant Conferences](#Relevant-Conferences)
-- [Relevant Journals](#Relevant-Journals)
-- [Papers](#Papers)
-  - [Survey](#Survey)
-  - [Camera Attack](#Camera-Attack)
-  - [Lane Detection Attack](#Lane-Detection-Attack)
-  - [LiDAR Attack](#LiDAR-Attack)
-  - [Multi-Sensor Fusion Attack](#Multi-Sensor-Fusion-Attack)
-  - [System Testing](#System-Testing)
-  - [Scenario Generation](#Scenario-Generation)
-  - [Anomaly Detection](#Anomaly-Detection)
-  - [Other](#Other)
-- [Datasets](#Datasets)
-
-## Langya-Ranking
+### Langya-Ranking
 
 | Name           | Organization                     | Link                                                         |
 | -------------- | -------------------------------- | ------------------------------------------------------------ |
@@ -36,37 +26,36 @@ Welcome to my GitHub repository dedicated to the field of **autonomous driving s
 | Qi Alfred Chen | University of California, Irvine | [[HomePage](https://www.ics.uci.edu/~alfchen/)] [[Scholar](https://scholar.google.com/citations?user=lcsu7m8AAAAJ)] |
 | Yulong Cao     | University of Michigan / NVIDIA  | [[HomePage](https://kikacaty.github.io/)] [[Scholar](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN)] |
 
-## Relevant Conferences
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-|      Abbr.      | Full Name                                                  |       Category       | CCF-Rank |
-| :-------------: | ---------------------------------------------------------- | :------------------: | :------: |
-|       CCS       | ACM Conference on Computer and Communications Security     |       Security       |  CCF-A   |
-|      NDSS       | Network and Distributed System Security Symposium          |       Security       |  CCF-A   |
-|  S&P (Oakland)  | IEEE Symposium on Security and Privacy                     |       Security       |  CCF-A   |
-| Usenix Security | USENIX Security Symposium                                  |       Security       |  CCF-A   |
-|      ECCV       | European Conference on Computer Vision                     |   Computer Vision    |  CCF-B   |
-|      CVPR       | Computer Vision and Pattern Recognition                    |   Computer Vision    |  CCF-A   |
-|      ICCV       | IEEE International Conference on Computer Vision           |   Computer Vision    |  CCF-A   |
-|     ACM MM      | ACM International Conference on Multimedia                 |      Multimedia      |  CCF-A   |
-|       ASE       | International Conference on Automated Software Engineering | Software Engineering |  CCF-A   |
-|      ICSE       | International Conference on Software Engineering           | Software Engineering |  CCF-A   |
-|      ISSTA      | International Symposium on Software Testing and Analysis   |   Software Testing   |  CCF-A   |
+### Relevant Conferences
 
+- Security
+  - ACM Conference on Computer and Communications Security (CCS) - CCF-A
+  - Network and Distributed System Security Symposium (NDSS) - CCF-A
+  - IEEE Symposium on Security and Privacy (S&P) - CCF-A
+  - USENIX Security Symposium - CCF-A
+- Artificial Intelligence & Computer Vision
+  - Computer Vision and Pattern Recognition (CVPR) - CCF-A
+  - IEEE International Conference on Computer Vision (ICCV) - CCF-A
+  - European Conference on Computer Vision (ECCV) - CCF-B
+- Software Engineering
+  - International Conference on Automated Software Engineering (ASE) - CCF-A
+  - International Conference on Software Engineering (ICSE) - CCF-A
+  - International Symposium on Software Testing and Analysis (ISSTA) - CCF-A
 
+- Multimedia
+  - ACM International Conference on Multimedia - CCF-A
 
 ## Relevant Journals
 
-| Abbr. | Full Name                                               |       Rank        |
-| :---: | ------------------------------------------------------- | :---------------: |
-| TIFS  | IEEE Transactions on Information Forensics and Security | CCF-A / 中科院1区 |
-| TITS  | IEEE Transactions on Intelligent Transportation Systems | CCF-B / 中科院1区 |
-|  TIV  | IEEE Transactions on Intelligent Vehicles               |     中科院1区     |
-|  TVT  | IEEE Transactions on Vehicular Technology               |     中科院2区     |
-|  TRE  | IEEE Transactions on Reliability                        | CCF-C / 中科院2区 |
+- IEEE Transactions on Information Forensics and Security (TIFS) - CCF-B / JCR Q1
+- IEEE Transactions on Intelligent Transportation Systems (TITS) - CCF-B / JCR Q1
+- IEEE Transactions on Intelligent Vehicles (TIV) - JCR Q1
+- IEEE Transactions on Vehicular Technology (TVT) - JCR Q2
+- IEEE Transactions on Reliability (TR) - CCF-C / JCR Q2
 
-
-
-## Papers
+## Paper Collection
 
 ### Survey
 
@@ -193,4 +182,6 @@ Welcome to my GitHub repository dedicated to the field of **autonomous driving s
 
 - **Are we ready for autonomous driving? The KITTI vision benchmark suite.** [[pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/CVPR2012/data/papers/424_O3C-04.pdf)]
   - Andreas Geiger, Philip Lenz, Raquel Urtasun. *CVPR, 2012.*
+
+
 
