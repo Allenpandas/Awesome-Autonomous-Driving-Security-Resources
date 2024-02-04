@@ -6,10 +6,13 @@
 <p align='center'>
 <img src="https://img.shields.io/github/stars/Allenpandas/Autonomous-Driving-Security-Resources.svg">
 <img src="https://img.shields.io/github/forks/Allenpandas/Autonomous-Driving-Security-Resources.svg">
+<a href="docs/README_CN.md"><img src="https://img.shields.io/badge/文档-中文版-blue.svg" alt="CN doc"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
 <img src="https://img.shields.io/github/repo-size/Allenpandas/Autonomous-Driving-Security-Resources.svg">
 <img src="https://img.shields.io/github/issues/Allenpandas/Autonomous-Driving-Security-Resources.svg">
 <img src="https://img.shields.io/github/issues-pr/Allenpandas/Autonomous-Driving-Security-Resources.svg">
 </p>
+
 
 
 ## Contributing
