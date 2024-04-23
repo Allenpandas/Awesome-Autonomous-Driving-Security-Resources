@@ -50,54 +50,27 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 
 ### Research Labs
 
+| University                                    | Institution                                                  | Members                                                      |
+| --------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| University of Delaware                        | [Department of Computer and Information Sciences](https://www.cis.udel.edu/) | [Weisong Shi](https://www.weisongshi.org/) et al.            |
+| Purdue University                             | Center for Road Safety                                       | [Yiheng Feng](https://engineering.purdue.edu/CE/People/ptProfile?resource_id=244000) et al. |
+| University of Michigan                        | [Department of Electrical Engineering and Computer Science ](http://www.eecs.umich.edu/) | Yulong Cao et al.                                            |
+| University of California, Irvine              | Department of Computer Science                               | [Qi Alfred Chen](https://scholar.google.com/citations?user=lcsu7m8AAAAJ) et al. |
+| Tsinghua University                           | [School of Behicle and Mobility](http://www.svm.tsinghua.edu.cn/index.html) | [Keqiang Li](https://scholar.google.com/citations?user=x58fnLQAAAAJ&hl=zh-CN&oi=ao), Dian-ge Yang, [Shengbo Li](https://scholar.google.com/citations?user=Dxiw1K8AAAAJ&hl=zh-CN&oi=ao) et al. |
+| Tsinghua University                           | [Institute for AI Industry esearch](https://air.tsinghua.edu.cn/) | Yaqin Zhang et al.                                           |
+| Tsinghua University                           | [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab)       | Hang Zhao et al.                                             |
+| Peking University                             | [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/) | Rongqing Zhao et al.                                         |
+| Beijing Institute of Technology               | [School of Mechanical Engineering](https://me.bit.edu.cn/jgsz/jlgcx1/index.htm) | Huiyan Chen, Jianwei Gong et al.                             |
+| Beihang University                            | [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/xkjs/xkfx.htm) | Guizhen Yu, Shichun Yang et al.                              |
+| Beijing Jiaotong University                   | [Institute of Information Science](http://iis.bjtu.edu.cn/)  | Yao Zhao, Chunyu Lin et al.                                  |
+| Xi'an Jiaotong University                     | [College of Artificial Ingelligence](http://www.aiar.xjtu.edu.cn/) | Nanning Zheng et al.                                         |
+| Zhejiang University                           | [Research Center for Intelligent Drive and Future Traffic College of Control Science and Engineering](http://idft.zju.edu.cn/) | Yong Liu, Dongqin Feng et al.                                |
+| Nanjing University of Science and Technology  | [Automation Research Institute](http://www.nustcar.com/index.php?s=/home/article/lists/category/yjyjs.html) | Minghu Ren, Jingyu Yang, Zhaoxia Shi et al.                  |
+| Tongji University                             | [Intelligent Vehicle and Cooperative control of Multi-agent Lab](https://ivcm.tongji.edu.cn/sysjj.htm) | Lu Xiong, Xichan Zhu, Hao Zhang et al.                       |
+| Huazhong University of Science and Technology | [School of Artificial Intelligence and Automation](http://aia.hust.edu.cn/) | Xinggang Wang, Dingxin He, et al.                            |
+| Shanghai Jiaotong Univerisity                 | [CyberC3 Intelligent Vehicle Labs](https://cyberc3.sjtu.edu.cn/) | Chengliang Yin, Ming Yang, et al.                            |
 
-- **University of Delaware**
-  - [Department of Computer and Information Sciences](https://www.cis.udel.edu/) - [Weisong Shi](https://www.weisongshi.org/) et al.
-  
-- **Purdue University**
-  - Center for Road Safety - [Yiheng Feng](https://engineering.purdue.edu/CE/People/ptProfile?resource_id=244000) et al.
-  
-- **University of Michigan**
-  - [Department of Electrical Engineering and Computer Science ](http://www.eecs.umich.edu/) - [Z. Morley Mao](http://www.eecs.umich.edu/~zmao), Yulong Cao et al.
-  
-- **University of California, Irvine**
-  - Department of Computer Science - [Qi Alfred Chen](https://scholar.google.com/citations?user=lcsu7m8AAAAJ) et al.
-  
-- **Tsinghua University**
-  - [School of Behicle and Mobility](http://www.svm.tsinghua.edu.cn/index.html) - [Keqiang Li](https://scholar.google.com/citations?user=x58fnLQAAAAJ&hl=zh-CN&oi=ao), Dian-ge Yang, [Shengbo Li](https://scholar.google.com/citations?user=Dxiw1K8AAAAJ&hl=zh-CN&oi=ao) et al.
 
-  - [Institute for AI Industry esearch](https://air.tsinghua.edu.cn/) - Yaqin Zhang et al.
-  - [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab) - Hang Zhao et al.
-  
-- **Peking University**
-  - [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/) - Rongqing Zhao et al.
-  
-- **Beijing Institute of Technology**
-  - [School of Mechanical Engineering](https://me.bit.edu.cn/jgsz/jlgcx1/index.htm) - Huiyan Chen, Jianwei Gong, Guangming Xiong, Jun Ni et al.
-  
-- **Beihang University**
-  - [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/xkjs/xkfx.htm) - Guizhen Yu, Shichun Yang, Haiyang Yu et al.
-  
-- **Beijing Jiaotong University**
-  - [Institute of Information Science](http://iis.bjtu.edu.cn/) - Yao Zhao, Chunyu Lin et al.
-  
-- **Xi'an Jiaotong University**
-  - [College of Artificial Ingelligence](http://www.aiar.xjtu.edu.cn/) - Nanning Zheng et al.
-  
-- **Zhejiang University**
-  - [Research Center for Intelligent Drive and Future Traffic College of Control Science and Engineering](http://idft.zju.edu.cn/) - Yong Liu, Dongqin Feng et al.
-  
-- **Nanjing University of Science and Technology**
-  - [Automation Research Institute](http://www.nustcar.com/index.php?s=/home/article/lists/category/yjyjs.html) - Minghu Ren, Jingyu Yang, Zhaoxia Shi et al.
-  
-- **Tongji University**
-  - [Intelligent Vehicle and Cooperative control of Multi-agent Lab](https://ivcm.tongji.edu.cn/sysjj.htm) - Lu Xiong, Xichan Zhu, Hao Zhang et al.
-  
-- **Huazhong University of Science and Technology**
-  - [School of Artificial Intelligence and Automation](http://aia.hust.edu.cn/) - Xinggang Wang, Dingxin He, et al.
-  
-- **Shanghai Jiaotong Univerisity**
-  - [CyberC3 Intelligent Vehicle Labs](https://cyberc3.sjtu.edu.cn/) - Chengliang Yin, Ming Yang, et al.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
