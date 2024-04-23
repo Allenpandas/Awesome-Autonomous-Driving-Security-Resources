@@ -27,7 +27,7 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 - [Relevant Conferences](#Relevant-Conferences)
 - [Relevant Journals](#Relevant-Journals)
 - [Relevant Competitions](#Relevant-Competitions)
-- [Papers](Papers)
+- [Papers](#Papers)
 
 ## Foundations
 
@@ -116,6 +116,11 @@ Please feel free to send me [pull requests](https://github.com/Allenpandas/Auton
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Papers
+
+- [Survey](#Survey)
+- [Scenario Generation](#Scenario-Generation)
+- [Datasets](#Datasets)
+- [Perception](#Perception)
 
 #### Survey
 
